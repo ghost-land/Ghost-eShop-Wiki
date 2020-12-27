@@ -36,7 +36,7 @@ Il y as deux solutions qui soffre à vous :
     * Appuyer ensuite **deux** fois sur le bouton **(B)**
     * Puis **une fois** sur le bouton ```start```
     
-    Voilà, l'homebrew Ghost eShop est désormais installé, pour la suite du guide, suivre le [Guide du premier démarrage](start_guide-fr.md).
+    Voilà, l'homebrew Ghost eShop est désormais installé, pour la suite du guide, suivre le [Guide du premier démarrage](./start_guide-fr.md).
 
 * Ou alors, la deuxième solution étant beaucoup plus rapide, et pouvant ce faire depuis un téléphone📱.
 

@@ -33,7 +33,7 @@ ___
 
 No, it is impossible for you to even add one or more games, but nevertheless, you can always ask from the discord server that this or that game be added.
 ___
-**Comment puit-je vous contacter ?**
+**How can I contact you ?**
 
 You can contact the creator of this project, and therefore the highest ranking of this project, either from the discord server that appears at the bottom of this page, or by [email](mailto::contact.ghost01@gmail.com).
 ___
