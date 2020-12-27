@@ -1,39 +1,41 @@
-### **Bienvenue sur le wiki officiel de Ghost eShop Alternattive**
+### **Welcome to the official Ghost eShop Alternattive wiki**
 <div align="center"><img src="http://ghosteshop.com/icon.png" height="64px"></div>
+
 ___
+
 #### **FAQ**
-**Qu'est-ce que le Ghost eShop ?**
+**What is the Ghost eShop ?**
 
-Ghost eShop Alternative, comme son nom le dit est un eshop 3DS Alternatif vous permeettant d'obtenir tous vos jeux 3DS, voir plus...
-Directement depuis la console.
+Ghost eShop Alternative, as its name says is an eshop 3DS Alternative allowing you to get all your 3DS games, see more...
+Straight from the console.
 ___
-**Qui est le créateur ?**
+**Who is the creator ?**
 
-Le créateur de ce project est Ghost0159, mais désormais Ghost eShop est maintenu par **Ghost eShop Team**
+The creator of this project is Ghost0159, but now Ghost eShop is maintained by **Ghost eShop Team**
 ___
-**Est-ce que Ghost eShop, c'est comme freeshop ?**
+**Is Ghost eShop like freeshop ?**
 
-Pour un simple utilisateur, Ghost eShop pourrait être comme freeshop, car il permet d'obtenir tous vos jeux gratuitement, mais il n'as pas du tout le même mode de fonctionnement est n'est pas alimenté par Nintendo, comme l'était le freeshop grâce aux titles keys, pour plus de détails sur freeshop, voir [ici](https://freeshop.pw).
+For a simple user, Ghost eShop could be like freeshop, because it allows to get all your games for free, but it does not have at all the same mode of operation is not powered by Nintendo, as was the freeshop thanks to the titles keys, for more details on freeshop, see [here](https://freeshop.pw).
 ___
-**Pourquoi avoir créer Ghost eShop ?**
+**Why create Ghost eShop ?**
 
-Ghost eShop a était créer de base, juste comme passe temp, mais voyant que celui-ci intéressait pas mal de monde, j'ai décidé de le continué, de l'améliorer, afin d'arriver à ce que vous pouvez avoir aujourd'hui.
+Ghost eShop was creating basic, just like temp, but seeing that this one interested quite a lot of people, I decided to continue it, to improve it, in order to arrive at what you can have today.
 ___
-**Quelle est le rapport entre le Ghost eShop, Ghost eShop Team et Universal-Updater, Universal-Updater ?**
+**What is the relationship between the Ghost eShop, Ghost eShop Team and Universal-Updater, Universal-Updater ?**
 
-Universal-Updater de Universal-Team, lors de ces anciennes version prenait en charge les simples scripts JSON, donc Ghost eShop n'était de base qu'un simple script, ensuite il as évolué en ```.unistore```, afin de pouvoir y ajouter les sprites.
-Et ensuite, il y as eu la création du fork de Universal-Updater, à l'heure actuel, Ghost eShop est toujours un fork, sur lesquels on ajoute des améliorations, telles que la taille des jeux dans la description de ceux-ci, les contenus additionel, plus de traduction...
+Universal-Updater of Universal-Team, during these old versions supported simple JSON scripts, so Ghost eShop was only a simple script, then it evolved into ```'. unistore``, so you can add the sprites.
+And then, there was the creation of the fork of Universal-Updater, at the moment, Ghost eShop is still a fork, on which we add improvements, such as the size of the games in the description of them, the additionel contents, more translation...
 
-Bref, si vous voullez plus d'information sur Universal-Updater, qui je rapelle et **contre ghost eShop** et ainsi contre l'idée originel du Ghost eShop.
-Donc, pour plus d'informations suivre [ce lien](https://github.com/Unversal-Team/).
+In short, if you want more information about Universal-Updater, which I recall and **against ghost eShop** and thus against the original idea of Ghost eShop.
+So for more information follow [this link](https://github.com/Unversal-Team/).
 ___
-**Puis-je moi-même y ajouté des jeux ?**
+**Can I add games myself ?**
 
-Non, il vous est impossible de vous même ajouté un ou des jeux, mais néanmoins, vous pouvez toujours demander depuis le serveur discord, à ce que tel(s) ou tel(s) jeu(x) soi(t)/(ent) ajouté.
+No, it is impossible for you to even add one or more games, but nevertheless, you can always ask from the discord server that this or that game be added.
 ___
 **Comment puit-je vous contacter ?**
 
-Vous pouvez soi contacter le créateur de ce project, et donc le plus haut gradé de ce projets, soit depuis le serveur discord qui s'affiche en bas de cette page, soit par [email](mailto::contact.ghost01@gmail.com).
+You can contact the creator of this project, and therefore the highest ranking of this project, either from the discord server that appears at the bottom of this page, or by [email](mailto::contact.ghost01@gmail.com).
 ___
 <details><summary><B>ScreenShot of Ghost eShop</B></summary>
 
