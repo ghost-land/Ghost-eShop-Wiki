@@ -73,7 +73,7 @@ Hay dos soluciones disponibles para usted:
     * Ir al homebrew del FBI
     * Luego, en ```Remote install> Scan qr code```
     * Entonces solo tienes que escanear el código QR justo debajo:
-    <<div align="center"><img src="https://cdn.ghosteshop.com/Homebrew/GhostEshop%20%28.3dsx%29.png" height="140px"></div>
+    <div align="center"><img src="https://cdn.ghosteshop.com/Homebrew/GhostEshop%20%28.3dsx%29.png" height="140px"></div>
 
     * Luego haga clic en **una vez** en el botón **(A)**
     * Espere el final de la descarga ...
