@@ -44,3 +44,5 @@ ___
 ___
 
 [![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+
+<a href="https://github.com/Ghost0159" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/&copy;Ghost_eShop_Team-2020_|_2021-red.svg" height="20"></a>
