@@ -5,7 +5,7 @@
 *In order not to have any problems afterwards, please follow this guide **step by step***
 
 **Reminders :**
-* If you don’t know what a 3DS (What to put if you are here 😂 ), then here is the beautiful Wikipedia page: [here](https://fr.wikipedia.org/wiki/Nintendo_3DS).
+* If you don’t know what is a 3DS (What to put if you are here 😂 ), then here is the beautiful Wikipedia page: [here](https://fr.wikipedia.org/wiki/Nintendo_3DS).
 * In order for you to fully understand this guide, you need to know that words or groups of words [underline and blue colours]() are links, and so by clicking on a word [underline and blue colors](), it will redirect you to another page, for example : [FBI](https://github.com/Steveice10/FBI) you will redirect to the github of Steveice 10 for more details read [this markdown documentation](https://cours-web.ch/divers/markdown/).
 * And to finish the reminders, Ghost eshop team is in no way responsible for any damage that you could cause to your console or others, normally if you follow this guide, you will have no problem, but if they turned out to be a problem, you can always contact the Ghost eshop team staff by joining [the discord server](https://discord.gg/ENFGnYrKMf).
 **If you don’t know what you’re doing, don’t do it or let a competent person do it.**
