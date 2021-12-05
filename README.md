@@ -1,4 +1,4 @@
-### **Welcome to the official Ghost eShop Alternattive wiki**
+### **Welcome to the official Ghost eShop Alternative wiki**
 <div align="center"><a href="https://ghosteshop.com"><img src="http://ghosteshop.com/icon.png" height="64px"></a></div>
 
 ___
