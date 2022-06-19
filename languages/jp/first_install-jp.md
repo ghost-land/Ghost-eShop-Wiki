@@ -1,14 +1,14 @@
 ### __First installation:__
 
 
-**📙 Read :**
-*In order not to have any problems afterwards, please follow this guide **step by step***
+**📙 最初にお読みください :**
+*後で問題が発生しないように、このガイドに従ってください **ステップバイステップ***
 
-**Reminders :**
-* If you don’t know what is a 3DS (What to put if you are here 😂 ), then here is the beautiful Wikipedia page: [here](https://fr.wikipedia.org/wiki/Nintendo_3DS).
-* In order for you to fully understand this guide, you need to know that words or groups of words [underline and blue colours]() are links, and so by clicking on a word [underline and blue colors](), it will redirect you to another page, for example : [FBI](https://github.com/Steveice10/FBI) you will redirect to the github of Steveice 10 for more details read [this markdown documentation](https://cours-web.ch/divers/markdown/).
-* And to finish the reminders, Ghost eshop team is in no way responsible for any damage that you could cause to your console or others, normally if you follow this guide, you will have no problem, but if they turned out to be a problem, you can always contact the Ghost eshop team staff by joining [the discord server](https://discord.gg/ENFGnYrKMf).
-**If you don’t know what you’re doing, don’t do it or let a competent person do it.**
+**リマインダー :**
+* 3DSとは何か（ここにいる場合は何を置くべきか😂）がわからない場合は、ここにウィキペディアのページがあります: [here](https://ja.m.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC3DS).
+* このガイドを完全に理解するには、その単語または単語のグループを知る必要があります [underline and blue colours]() リンクなので、単語をクリックすると [underline and blue colors](), たとえば、別のページにリダイレクトされます : [FBI](https://github.com/Steveice10/FBI) 詳細については、Steveice10のgithubにリダイレクトしてください。 [this markdown documentation](https://cours-web.ch/divers/markdown/).
+* そして、リマインダーを終了するために、Ghost eshopチームは、コンソールや他の人に与える可能性のある損害については一切責任を負いません。通常、このガイドに従えば問題はありませんが、問題であることが判明した場合は、 参加することで、いつでもGhosteshopチームのスタッフに連絡できます [Discordサーバー](https://discord.gg/ENFGnYrKMf).
+**自分が何をしているのか分からない場合は、それを行わないか分かる人にやらせてください。**
 
 ___
 #### 🏁 1- Prerequisite :
