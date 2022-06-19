@@ -1,6 +1,6 @@
 Commandes Utiles :
 
-Installer GitBook :
+Installer GitBook (Si possible prendre la v12) :
 npm install -g gitbook-cli
 
 Build:
