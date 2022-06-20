@@ -26,7 +26,8 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
 
 **```.cia```の場合のインストール方法：**
 あなたが利用できる2つのインストール方法があります：
-* [GhostEshop.cia]（https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia）　をPCからダウンロードするか💻またはスマートフォン📱からインストールします（PCの場合はWindowsまたはLinuxからダウンロードすることをお勧めします）
+* [GhostEshop.cia]（https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia）
+をPCからダウンロードするか💻またはスマートフォン📱からインストールします（PCの場合はWindowsまたはLinuxからダウンロードすることをお勧めします）
 
     *次に、SDカードの```sdmc:/CIAs/Ghost Eshop.cia```に```Ghost Eshop.cia``` を挿入します。
     * 次に。3DS(New3DS)に挿入された```GhostEshop.cia```を含まれているSDカード(MicroSDカード)を使用して3DS(New3DS)の電源を入れます。
@@ -54,9 +55,10 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
 
     これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
 
-**``` .ciaファイル```をインストールしたくない場合は、` ``.3dsx```からGhosteShopを起動して、Homebrew Launcherで実行することもできます：**
+**``` .ciaファイル```をインストールしたくない場合は、```.3dsx```からGhosteShopを起動して、Homebrew Launcherで実行することもできます：**
 *  ``` GhostEshop.3dsx```をダウンロードして、コンピューターに配置します*(この部分ではスマートフォンはお勧めしません)*
-   * .3dsxファイルをダウンロードします [GhostEshop.3dsx](https://cdn.ghosteshop.com/Homebrew/GhostEshop.3dsx), 必要に応じて、`` `.smdhファイル```があります:　[GhostEshop.smdh](https://cdn.ghosteshop.com/Homebrew/GhostEshop.smdh)
+   *  [GhostEshop.3dsx](https://cdn.ghosteshop.com/Homebrew/GhostEshop.3dsx)
+   .3dsxファイルをダウンロードします 必要に応じて、```smdhファイル```があります:　[GhostEshop.smdh](https://cdn.ghosteshop.com/Homebrew/GhostEshop.smdh)
     * ダウンロードしたら、 ```GhostEshop.3dsx``` を ```sdmc:/3ds/GhostEshop.3dsx```に挿入します
     * Homebrew Launcherを起動してから、GhosteShopを開けばインストール完了です
     
