@@ -12,6 +12,6 @@
         * [Guide de démarrage](./languages/fr/start_guide-fr.md)
         * [Problèmes récurrents](./languages/fr/recurring_problems-fr.md)
     * [日本](./languages/jp/jp.md)
-        * [初回インストール](./languages/jp/first_install-jp.md)
+        * [最初のインストール](./languages/jp/first_install-jp.md)
         * [スタートアップガイド](./languages/jp/start_guide-jp.md)
         * [再発の問題](./languages/jp/recurring_problems-jp.md)
