@@ -6,7 +6,7 @@
 
 **リマインダー :**
 * 3DSとは何か（ここにいる場合は何を置くべきか😂）がわからない場合は、ここにウィキペディアのページがあります: [こちらからご覧ください](https://ja.m.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC3DS).
-* このガイドを完全に理解するには、その単語または単語のグループを知る必要があります [underline and blue colours]() リンクなので、単語をクリックすると [underline and blue colors](), たとえば、別のページにリダイレクトされます : [FBI](https://github.com/Steveice10/FBI) 詳細については、Steveice10のgithubにリダイレクトしてください。 [this markdown documentation](https://cours-web.ch/divers/markdown/).
+* このガイドを完全に理解するには、その単語または単語のグループを知る必要があります [下線と青の色]() リンクなので、単語をクリックすると [下線と青の色](), たとえば、別のページにリダイレクトされます : [FBI](https://github.com/Steveice10/FBI) 詳細については、Steveice10のgithubにリダイレクトしてください。 [このマークダウンドキュメント](https://cours-web.ch/divers/markdown/).
 * そして、リマインダーを終了するために、Ghost eShopチームは、コンソールや他の人に与える可能性のある損害については一切責任を負いません。通常、このガイドに従えば問題はありませんが、問題であることが判明した場合は、 参加することで、いつでもGhost　eShopチームのスタッフに連絡できます [公式Discordサーバー](https://discord.gg/ENFGnYrKMf).
 **自分が何をしているのか分からない場合は、それを行わないか分かる人にやらせてください。**
 
@@ -32,12 +32,12 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     *次に、SDカードの```sdmc:/CIAs/Ghost Eshop.cia```に```Ghost Eshop.cia``` を挿入します。
     * 次に。3DS(New3DS)に挿入された```GhostEshop.cia```を含まれているSDカード(MicroSDカード)を使用して3DS(New3DS)の電源を入れます。
     * FBIを開きます
-    * そして: ```SD > CIAs > Go down to GhostEshop.cia > click on the button (A) > Install and delete CIA > click on the button (A)```を押してGhost eShopをインストールします。
+    * そして: ```SD > CIAs > GhostEshop.ciaへ移動します。 > ボタンをクリックする (A) > Install and delete CIA > ボタンをクリックする (A)```を押してGhost eShopをインストールします。
     * インストールが完了したら、Aボタンを**1回**を押します
     * Bボタンを**2回**押します
     * STARTボタンを**1回**押します
     
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[ファーストスタートガイド](./start_guide-fr.md) に従ってください。
 
 * または、2つ目の方法ははるかに高速で、スマートフォンからインストールできます📱
 
@@ -53,7 +53,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * Bボタンを**2回**押します
     * STARTボタンを**1回**押します
 
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[ファーストスタートガイド](./start_guide-fr.md) に従ってください。
 
 **``` .ciaファイル```をインストールしたくない場合は、```.3dsx```からGhosteShopを起動して、Homebrew Launcherで実行することもできます：**
 *  ``` GhostEshop.3dsx```をダウンロードして、コンピューターに配置します*(この部分ではスマートフォンはお勧めしません)*
@@ -62,7 +62,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * ダウンロードしたら、 ```GhostEshop.3dsx``` を ```sdmc:/3ds/GhostEshop.3dsx```に挿入します
     * Homebrew Launcherを起動してから、GhosteShopを開けばインストール完了です
     
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[ファーストスタートガイド](./start_guide-fr.md) に従ってください。
 
 * 3DS(New3DS)から直接```.3dsx```をダウンロードできる別の方法もあります。.
     * これを行うには、コンソールの電源を入れます
@@ -79,6 +79,6 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * Homebrew Launcherを起動します
     * GhosteShopを選択して起動します
 
-    これで、自作のGhost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
+    これで、自作のGhost eShopがインストールされました。ガイドの残りの部分については、[ファーストスタートガイド](./start_guide-fr.md) に従ってください。
     
     [![公式ディスコードサーバー](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
