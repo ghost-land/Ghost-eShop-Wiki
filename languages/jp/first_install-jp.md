@@ -1,4 +1,4 @@
-### __First installation:__
+### __最初のインストール:__
 
 
 **📙 必ず最初にお読みください :**
@@ -26,7 +26,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
 
 **```.cia```の場合のインストール方法：**
 あなたが利用できる2つのインストール方法があります：
-* [GhostEshop.cia]（https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia）をPCからダウンロードするか💻またはスマートフォン📱からインストールします（PCの場合はWindowsまたはLinuxからダウンロードすることをお勧めします）
+* [GhostEshop.cia]（https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia）　をPCからダウンロードするか💻またはスマートフォン📱からインストールします（PCの場合はWindowsまたはLinuxからダウンロードすることをお勧めします）
 
     *次に、SDカードの```sdmc:/CIAs/Ghost Eshop.cia```に```Ghost Eshop.cia``` を挿入します。
     * 次に。3DS(New3DS)に挿入された```GhostEshop.cia```を含まれているSDカード(MicroSDカード)を使用して3DS(New3DS)の電源を入れます。
@@ -63,20 +63,20 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
 
 * 3DS(New3DS)から直接```.3dsx```をダウンロードできる別の方法もあります。.
-    * To do this, turn on your console
-    * Go to the FBI Homebrew
-    * Then in ```Remote Install > Scan QR Code```
-    * Then you just have to scan the QR Code just below :
+    * これを行うには、コンソールの電源を入れます
+    * FBIを開きます
+    * 次に ```Remote Install > Scan QR Code```を押します
+    * 次に、下のQRコードをスキャンします
     <div align="center"><img src="https://cdn.ghosteshop.com/Homebrew/GhostEshop%20%28.3dsx%29.png" height="140px"></div>
 
-    * Then click on the **once** on the **(A)** button
-    * Wait for the end of the download...
-    * Then click **once** on the button **(A)**
-    * Then **two times** on the button **(B)**
-    * Then **once** on the ```start``` button
-    * Then all you have to do is start the Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
-    * Then run the Homebrew Ghost eShop
+    * Aボタンを**1回**押します
+    * インストールが終了するのを待ちます...
+    * Aボタンを**1回**押します
+    * Bボタンを**2回**押します
+    * STARTボタンを**1回**押します
+    * Homebrew Launcherを起動します
+    * GhosteShopを選択して起動します
 
-    That's it, the homebrew Ghost eShop is now installed, for the rest of the guide, follow the [First Start Guide](./start_guide-fr.md).
-
-    [![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+    これで、自作のGhost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
+    
+    [![公式ディスコードサーバー](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
