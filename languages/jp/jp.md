@@ -1,7 +1,7 @@
-### Welcome to the official Ghost eShop Wiki
+### Ghost eShopの公式ウィキへようこそ！
 
-##### Table of contents:
-- [First Install](./first_install.md)
-- [Getting started guide](./start_guide.md)
+##### 目次：
+- [最初のインストール](./first_install.md)
+- [スタートガイド](./start_guide.md)
 
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+[![公式ディスコードサーバー](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
