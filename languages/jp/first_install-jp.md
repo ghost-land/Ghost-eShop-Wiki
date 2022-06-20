@@ -26,7 +26,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
 
 **```.cia```の場合のインストール方法：**
 あなたが利用できる2つのインストール方法があります：
-* [GhostEshop.cia]（https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia）
+* [GhostEshop.cia](https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia)
 をPCからダウンロードするか💻またはスマートフォン📱からインストールします（PCの場合はWindowsまたはLinuxからダウンロードすることをお勧めします）
 
     *次に、SDカードの```sdmc:/CIAs/Ghost Eshop.cia```に```Ghost Eshop.cia``` を挿入します。
@@ -37,7 +37,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * Bボタンを**2回**押します
     * STARTボタンを**1回**押します
     
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide.md）に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
 
 * または、2つ目の方法ははるかに高速で、スマートフォンからインストールできます📱
 
@@ -53,7 +53,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * Bボタンを**2回**押します
     * STARTボタンを**1回**押します
 
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
 
 **``` .ciaファイル```をインストールしたくない場合は、```.3dsx```からGhosteShopを起動して、Homebrew Launcherで実行することもできます：**
 *  ``` GhostEshop.3dsx```をダウンロードして、コンピューターに配置します*(この部分ではスマートフォンはお勧めしません)*
@@ -62,7 +62,7 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * ダウンロードしたら、 ```GhostEshop.3dsx``` を ```sdmc:/3ds/GhostEshop.3dsx```に挿入します
     * Homebrew Launcherを起動してから、GhosteShopを開けばインストール完了です
     
-    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
+    これで、Ghost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
 
 * 3DS(New3DS)から直接```.3dsx```をダウンロードできる別の方法もあります。.
     * これを行うには、コンソールの電源を入れます
@@ -79,6 +79,6 @@ Ghost eShopを使用するには、```.cia```または```.3dsx```のいずれか
     * Homebrew Launcherを起動します
     * GhosteShopを選択して起動します
 
-    これで、自作のGhost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide]（./ start_guide-fr.md）に従ってください。
+    これで、自作のGhost eShopがインストールされました。ガイドの残りの部分については、[First Start Guide](./start_guide-fr.md) に従ってください。
     
     [![公式ディスコードサーバー](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
