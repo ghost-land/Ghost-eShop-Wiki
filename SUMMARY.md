@@ -19,3 +19,5 @@
         * [スタートアップガイド](./languages/jp/start_guide-jp.md)
             * [ホーム画面](./languages/jp/screen/home-jp.md)
         * [再発の問題](./languages/jp/recurring_problems-jp.md)
+
+* [Credits](./credits.md)
