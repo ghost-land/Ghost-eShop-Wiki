@@ -21,4 +21,3 @@
         * [再発の問題](./languages/jp/recurring_problems-jp.md)
 
 * [Credits](./credits.md)
-* [Test carrousel](./test-carrousel.md)
