@@ -1,1 +1,1 @@
-Por el momento, esta página wiki no se ha hecho, pero si quieres ayudar con la wiki, puedes participar a través de [este repositorio](https://github.com/ghost-land/wiki.ghosteshop.com).
+Por el momento, esta página wiki no se ha hecho, pero si quieres ayudar con la wiki, puedes participar a través de [este repositorio](https://github.com/ghost-land/Ghost-eShop-Wiki).
