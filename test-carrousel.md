@@ -20,26 +20,23 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/01-Checking%20Update.png" alt="Chania">
+      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/01-Checking%20Update.png" alt="Checking Update">
       <div class="carousel-caption">
-        <h3>Los Angeles</h3>
-        <p>LA is always so much fun!</p>
+        <p>Checking Update</p>
       </div>
     </div>
 
   <div class="item">
-      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png" alt="Chicago">
+      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png" alt="Main Menu">
       <div class="carousel-caption">
-        <h3>Chicago</h3>
-        <p>Thank you, Chicago!</p>
+        <p>Main Menu</p>
       </div>
     </div>
 
   <div class="item">
-      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/02-Main%20Menu.png" alt="New York">
+      <img src="https://cdn.ghosteshop.com/Images/3ds/Ghost%20eShop%20Alternative%203DS/screenshot/07-Search%20Author.png" alt="Search Author">
       <div class="carousel-caption">
-        <h3>New York</h3>
-        <p>We love the Big Apple!</p>
+        <p>Search Author</p>
       </div>
     </div>
   </div>
@@ -53,4 +50,3 @@
     <span class="glyphicon glyphicon-chevron-right"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
