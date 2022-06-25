@@ -31,7 +31,7 @@ So for more information follow [this link](https://github.com/Unversal-Team/).
 ___
 **Can I add games myself ?**
 
-No, it is impossible for you to even add one or more games, but nevertheless, you can always ask from the discord server that this or that game be added.
+No, it is impossible for you to even add one or more games, but nevertheless, you can always ask from [this form](https://forms.gle/oeExF7qWyDTjwSfe9) server that this or that game be added.
 ___
 **How can I contact you ?**
 
