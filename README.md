@@ -35,7 +35,9 @@ No, it is impossible for you to even add one or more games, but nevertheless, yo
 ___
 **How can I contact you ?**
 
-You can contact the creator of this project, and therefore the highest ranking of this project, either from the discord server that appears at the bottom of this page, or by [email](mailto:contact.ghost01@gmail.com).
+You can contact the creator of this project, and thus the highest ranking of this project, for that you can contact him by [email](mailto:admin@ghosteshop.com).
+
+You can of course discuss with the Ghost eShop team via the discord available just below this page.
 ___
 <B>ScreenShot of Ghost eShop</B>
 <div>
