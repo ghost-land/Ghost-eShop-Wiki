@@ -14,6 +14,7 @@
 - [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons and DS boxart
 - [Citra](https://citra-emu.org/) & [Nintendo](https://nintendo.com) for 3ds games icons
 - [hShop](https://hshop.erista.me/) for a part of the games, dlc and 3DS update
+- [NDS PASSION](https://www.nds-passion.xyz/) for a part of the European games
 - [Ghost eShop Team](https://github.com/ghost-land) for DS games and others
 
 ## Translations :
