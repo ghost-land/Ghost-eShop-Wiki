@@ -6,6 +6,7 @@
 ## Homebrew :
 - [Ghost eShop Team](https://github.com/ghost-land)
 - [Universal-Team](https://github.com/universal-Team/) for [Universal-Updater](https://github.com/universal-Team/universal-updater)
+- [Ooggle](https://github.com/Ooggle) for some fixes in the download area
 - [Citra](https://citra-emu.org/), [Nintendo](https://nintendo.com) & [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for games icons
 - [AnityEx](https://ko-fi.com/anityex) for the 3D banner
 - [Icons8](https://icons8.com)
