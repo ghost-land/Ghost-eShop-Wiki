@@ -17,7 +17,7 @@
 - [Ghost eShop Team](https://github.com/ghost-land) for DS games and others
 
 ## Translations :
-- Anonyku (Spanish)
+- [Anonyku](https://github.com/anonyku) (Spanish)
 - [Ghost0159](https://github.com/Ghost0159) (French)
 - [Ghost eShop Team](https://github.com/ghost-land) (French, English & Spanish)
 - [PlicyVimeo](https://github.com/kuragehimekurara1) (Japanese)
