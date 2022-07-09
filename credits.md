@@ -32,6 +32,9 @@
 - Gunther
 - Culex
 
+## Other :
+- [Dhalian](https://github.com/Dhalian) for some icons, such as the main [Ghost eShop icon](https://ghosteshop.com/icon.png), and for the video "[Introducing Ghost eShop](https://www.youtube.com/watch?v=4kJPMQrV3TM&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)"
+
 ## YouTubers (for visibility) :
 - [Ghost0159](https://www.youtube.com/channel/UChxEA5WZPPDxAy6oYIFE6WA)
     - [Introducing Ghost eShop](https://www.youtube.com/watch?v=4kJPMQrV3TM&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)
