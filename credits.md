@@ -119,3 +119,5 @@
 - [Javier Castaño](https://www.youtube.com/channel/UC3iMO5uzxd0eLICaaY5WUxQ)
     - [Como Descargar e instalar la Nueva Ghost eShop 3Ds 2Ds](https://www.youtube.com/watch?v=dSyim_Khg2s&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)
     - [Como Descargar e instalar la Nueva Ghost eShop 3Ds 2Ds](https://www.youtube.com/watch?v=pQIq5Bv8tLc&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)
+- [NintendoBrew](https://www.youtube.com/channel/UCAR-Uab7eQJwfoG2u8qGjOw)
+    - [3DS Homebrew: Ghost eShop | FreeShop 2022 für den Nintendo 3DS (Review) [Deutsch|HD]](https://www.youtube.com/watch?v=hE3677iRIrE&t=27s)
