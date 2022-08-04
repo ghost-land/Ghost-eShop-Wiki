@@ -1,11 +1,14 @@
 ### __Adding the Ghost eShop DS database from the Ghost eSHop homebrew :__
 
 
-**📙 A lire :**
-*In order for everything to work, please follow this guide **step by step***
-I also remind that currently Ghost eShop DS database is in test phase and it is not complete, but it is functional!
+**📙 To read :**
 
-**Rappels :**
+*In order for everything to work, please follow this guide **step by step***.
+
+*I also remind that currently Ghost eShop DS database is in test phase and it is not complete, but it is functional !*
+
+
+**Reminders :**
 * If you don't know what a 3DS is (which you will if you are here 😂), then here is the wonderful Wikipedia page : [here](https://fr.wikipedia.org/wiki/Nintendo_3DS).
 * And to finish the reminders, Ghost eShop Team is in no way responsible for any damage you may cause to your console or other, normally if you follow this guide well, you will have no problems, but if there proved to be a problem, you can always contact the staff of Ghost eShop Team by joining [the server discord](https://discord.gg/ENFGnYrKMf).
 **If you don't know what you are doing, don't do it or let someone else do it.**
