@@ -17,6 +17,7 @@
 - [hShop](https://hshop.erista.me/) for a part of the games, dlc and 3DS update
 - [NDS PASSION](https://www.nds-passion.xyz/) for a part of the European games
 - [Ghost eShop Team](https://github.com/ghost-land) for DS games and others
+- [ElghisJoestar](https://github.com/Elghis) for a few DS games
 - [Duckyq](https://discord.com/users/447352661424078858) & [panda_bandicoot](https://discord.com/users/835466498129657868) for a few DS roms hack
 
 ## Translations :
