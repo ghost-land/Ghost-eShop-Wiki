@@ -15,7 +15,8 @@
 - [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons
 - [KirovAir](https://github.com/KirovAir) for creating [TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) for DS BoxArts
 - [Citra](https://citra-emu.org/) & [Nintendo](https://nintendo.com) for 3ds games icons
-- [hShop](https://hshop.erista.me/) for a part of the games, dlc and 3DS update
+- [hShop](https://hshop.erista.me/) for a part of the 3DS games, 3DS updates & DLCs
+- [Ziperto](https://www.ziperto.com/) for a few 3DS games, 3DS updates & DLCs
 - [NDS PASSION](https://www.nds-passion.xyz/) for a part of the European 3DS games
 - [Ghost eShop Team](https://github.com/ghost-land) for DS games and others
 - [ElghisJoestar](https://github.com/Elghis) for a few DS games
