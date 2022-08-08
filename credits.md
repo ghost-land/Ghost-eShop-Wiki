@@ -12,7 +12,8 @@
 - [Icons8](https://icons8.com)
 
 ## Database (game icons, roms...) :
-- [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons and DS boxart
+- [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons
+- [KirovAir](https://github.com/KirovAir) for creating [TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) for DS BoxArts
 - [Citra](https://citra-emu.org/) & [Nintendo](https://nintendo.com) for 3ds games icons
 - [hShop](https://hshop.erista.me/) for a part of the games, dlc and 3DS update
 - [NDS PASSION](https://www.nds-passion.xyz/) for a part of the European games
