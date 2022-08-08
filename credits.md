@@ -11,12 +11,12 @@
 - [AnityEx](https://ko-fi.com/anityex) for the 3D banner
 - [Icons8](https://icons8.com)
 
-## Database (game icons, roms...) :
+## Database (games icons, roms...) :
 - [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons
 - [KirovAir](https://github.com/KirovAir) for creating [TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) for DS BoxArts
 - [Citra](https://citra-emu.org/) & [Nintendo](https://nintendo.com) for 3ds games icons
-- [hShop](https://hshop.erista.me/) for a part of the 3DS games, 3DS updates & DLCs
-- [Ziperto](https://www.ziperto.com/) for a few 3DS games, 3DS updates & DLCs
+- [hShop](https://hshop.erista.me/) for a part of the 3DS games, 3DS updates & DLC's
+- [Ziperto](https://www.ziperto.com/) for a few 3DS games, 3DS updates & DLC's
 - [NDS PASSION](https://www.nds-passion.xyz/) for a part of the European 3DS games
 - [Ghost eShop Team](https://github.com/ghost-land) for DS games and others
 - [ElghisJoestar](https://github.com/Elghis) for a few DS games
