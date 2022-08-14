@@ -1,23 +1,26 @@
-Commandes Utiles :
+Useful commands:
 
-Installer GitBook (Si possible prendre la v12) :
+Install GitBook (If possible take v12) :
 npm install -g gitbook-cli
 
 Build:
 gitbook build
 
-Avoir de l'aide :
+Getting help :
 gitbook help
+
+Initialize a gitbook :
+gitbook init
 
 _______________________________________________________________________________________________
 
-Corriger erreur de build (cb.apply is not a function) :
+Fix build error (cb.apply is not a function) :
 
-1. l'erreur vient du C:\Users\Ghost0159\AppData\Roaming\npm\node_modules\gitbook-cli\node_modules\npm\node_modules\graceful-fs\polyfills.js
-	(Le chemin du fichier est indiqué dans la console)
-2. Ouvrir le fichier
+1. the error comes from C:\Users\Ghost0159\AppData\Roaming\npm\node_modules\gitbook-cli\node_modules\npm\node_modules\graceful-fs\polyfills.js
+	(The file path is indicated in the console)
+2. Open the file
 
-Fonction posant problème :
+Problematic function :
  function statFix (orig) {
    if (!orig) return orig
    // Older versions of Node erroneously returned signed integers for
@@ -32,17 +35,17 @@ Fonction posant problème :
    }
  }
 
-3. Ligne 62 - 64 :
+3. Line 62 - 64 :
 	fs.stat = statFix(fs.stat)
 	fs.fstat = statFix(fs.fstat)
 	fs.lstat = statFix(fs.lstat)
-4. Commenter ces lignes :
+4. Comment on these lines :
 	// fs.stat = statFix(fs.stat)
 	// fs.fstat = statFix(fs.fstat)
 	// fs.lstat = statFix(fs.lstat)
 
 _______________________________________________________________________________________________
 
-Liens Utiles :
+Useful Links :
 https://www.npmjs.com/package/gitbook-cli
 https://www.tech-wiki.online/fr/cb-apply-not-a-function.html
