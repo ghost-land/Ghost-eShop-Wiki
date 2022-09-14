@@ -42,6 +42,7 @@
 - meganuggetts
 - Shadowmeire
 - fabul
+- George072890
 
 ## Other :
 - [Dhalian](https://github.com/Dhalian) for some icons, as the former main icon of the Ghost eShop, and for the video "[Introducing Ghost eShop](https://www.youtube.com/watch?v=4kJPMQrV3TM&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)"
