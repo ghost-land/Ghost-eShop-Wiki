@@ -14,6 +14,7 @@
 ## Database (games icons, roms...) :
 - [RetroGameFan NDS Rom Tool](https://gbatemp.net/download/retrogamefan-nds-rom-tool-v1-0_b1215.35735/) for DS icons
 - [KirovAir](https://github.com/KirovAir) for creating [TwilightBoxart](https://github.com/KirovAir/TwilightBoxart) for DS BoxArts
+- [22sh](https://twitter.com/0x22sh) for his help on the script allowing to scrap the infos and images of WiiU and 3DS games
 - [Citra](https://citra-emu.org/) & [Nintendo](https://nintendo.com) for 3ds games icons
 - [hShop](https://hshop.erista.me/) for a part of the 3DS games, 3DS updates & DLC's
 - [Ziperto](https://www.ziperto.com/) for a few 3DS games, 3DS updates & DLC's
@@ -44,6 +45,7 @@
 - fabul
 - George072890
 - ETR34
+- hart
 
 ## Other :
 - [Dhalian](https://github.com/Dhalian) for some icons, as the former main icon of the Ghost eShop, and for the video "[Introducing Ghost eShop](https://www.youtube.com/watch?v=4kJPMQrV3TM&list=PLCXWv2VrEuia9MqM3-V7AX8jaibasxGIJ)"
