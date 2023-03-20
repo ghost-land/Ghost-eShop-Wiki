@@ -7,7 +7,7 @@
 
 
 **Reminders :**
-* If you don't know what a 3DS is (which you will if you are here 😂), then here is the wonderful Wikipedia page : [here](https://en.wikipedia.org/wiki/Nintendo_3DS).
+* If you don't know what a 3DS is (which you will if you are here 😂), then here is the wonderful Wikipedia page : [here](https://ja.m.wikipedia.org/wiki/%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC3DS)..
 * And to finish the reminders, Ghost eShop Team is in no way responsible for any damage you may cause to your console or other, normally if you follow this guide well, you will have no problems, but if there proved to be a problem, you can always contact the staff of Ghost eShop Team by joining [the server discord](https://discord.gg/ENFGnYrKMf).
 **If you don't know what you are doing, don't do it or let someone else do it.**
 
