@@ -24,7 +24,7 @@ ___
 * **First step :**
 
     Place [this patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) in your 3DS (micro) SD card, so that the file looks like this: ``sd:/luma/sysmodules/0004013000002F02.ips``.
-    <div><img src="screen/9.png" height="300px"></div>
+    <div><img src="screen/9.png" height="200px"></div>
 * **Second Step :**
 
     Once this has been done, put your (micro) SD card back into your console, then start your console by pressing the ``select`` button on your console to access the luma configuration menu.
