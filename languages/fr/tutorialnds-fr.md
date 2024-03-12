@@ -16,7 +16,7 @@ ___
 #### 🏁 1- Prérequis :
 Pour installer la base de données DS à l'homebrew Ghost eShop, vous aurez besoin :
 
-* D'une console moddée 🏴‍☠️. (Voir [ici](https://3ds.hacks.guide/))
+* D'une console moddée 🏴‍☠️. (voir [ici](https://3ds.hacks.guide/fr_FR))
 * Du Ghost eShop, vous pouvez installer en suivant [ce guide](./first_install-fr.md)
 * Et enfin, d'un peu de patience...
 
