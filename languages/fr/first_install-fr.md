@@ -14,7 +14,7 @@ ___
 #### 🏁 1- Prérequis :
 Afin de pouvoir installer l'homebrew Ghost eShop, pour cela vous aurez besoin :
 
-* D'une console hackée 🏴‍☠️. (Voir [ici](https://3ds.hacks.guide/fr_FR))
+* D'une console hackée 🏴‍☠️ (voir [ici](https://3ds.hacks.guide/fr_FR)).
 * D'un installateur de fichier .cia, tel que [FBI](https://github.com/lifehackerhansol/FBI/releases), ou alors l'[Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ](https://github.com/fincs/new-hbmenu) afin de démarrer un .3dsx.
 * D'une Carte SD 💾 avec minimum 2Gb d'espace libre (car même si l'homebrew ne fait que quelques Mo, il serait bête de ne pas avoir assez de place et donc de ne pas pouvoir installer de jeu)
 * Et pour finir, d'un peu de patiente...
