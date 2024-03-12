@@ -1,45 +1,46 @@
 ### __Ajout de la base de données Ghost eShop DS à partir de l'homebrew Ghost eShop 3DS :__
 
 
-**📙 A lire :**
+**📙 À lire :**
 
 *Pour que tout fonctionne, veuillez suivre ce guide **étape par étape***.
 
 
 **Rappels :**
-* Si vous ne savez pas ce qu'est une 3DS (ce qui sera le cas si vous êtes ici 😂), voici la merveilleuse page Wikipédia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
-* Et pour finir les rappels, Ghost eShop Team n'est en aucun cas responsable des dommages que vous pourriez causer à votre console ou autre, normalement si vous suivez bien ce guide, vous n'aurez aucun problème, mais s'il s'avérait qu'il y ait un problème, vous pouvez toujours contacter l'équipe de Ghost eShop Team en rejoignant [le serveur discord](https://discord.gg/ENFGnYrKMf).
-**Si vous ne savez pas ce que vous faites, ne le faites pas ou laissez quelqu'un d'autre le faire.**
+* Si vous ne savez pas ce qu'est une 3DS (ce qui m'étonnerait vu que vous êtes ici 😂), alors voici sa magnifique page de Wikipedia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
+* Afin que vous compreniez au mieux ce guide, il vous faut savoir que les mots ou groupe de mots [soulignés et de couleur bleu]() sont des hyperliens, et donc en cliquant dessus, celà vous redirigera vers une autre page (par exemple : [FBI](https://github.com/lifehackerhansol/FBI) qui est le github de lifehackeransol (qui est un fork comme le lien officiel de FBI a sauté). Pour plus de précisions, veuillez lire [cette documentation markdown](https://cours-web.ch/divers/markdown/).
+* Et pour finir les rappels, Ghost eShop Team n'est en aucun cas responsable d'éventuels dommages que vous pourriez causer à votre système, normalement si vous suivez bien ce guide, vous n'aurez aucun problèmes, mais si vous en rencontrez un, vous pouvez toujours contacter le staff de Ghost eShop Team en rejoignant [le serveur discord](https://discord.gg/a7vdfT6YPq).
+**Si vous ne savez pas ce que vous faites, ne le faites pas ou alors faites vous guider.**
 
 ___
-#### 🏁 1- Conditions préalables :
-Pour installer l'homebrew Ghost eShop, vous aurez besoin de :
+#### 🏁 1- Prérequis :
+Pour installer la base de données DS à l'homebrew Ghost eShop, vous aurez besoin :
 
-* Une console moddée 🏴‍☠️. (Voir [ici](https://3ds.hacks.guide/))
-* Pour installer l'homebrew Ghost eShop, vous pouvez trouver un guide [ici](./first_install-fr.md)
-* Et enfin, un peu de patience...
+* D'une console moddée 🏴‍☠️. (Voir [ici](https://3ds.hacks.guide/))
+* Du Ghost eShop, vous pouvez installer en suivant [ce guide](./first_install-fr.md)
+* Et enfin, d'un peu de patience...
 
 ___
 #### 2- Ajout de la base de données :
 
 * **Première étape :**
 
-    Démarrer l'homebrew Ghost eShop
+    Démarrez l'homebrew Ghost eShop
     <div><img src="screen/1.png" height="300px"></div>
 * **Deuxième étape :**
 
-    Aller dans les paramètres de l'homebrew
+    Allez dans les paramètres de l'homebrew
     <div><img src="screen/2.png" height="300px"></div>
 * **Troisième étape :**
 
-    Aller dans sélectionner l'eShop
+    Allez dans sélectionner l'eShop
     <div><img src="screen/3.png" height="300px"></div>
 * **Quatrième étape :**
 
-    Cliquer sur l'icon "**+**" pour ajouter une base de données 
+    Cliquez sur l'icône "**+**" pour ajouter une base de données 
 * **Cinquième étape :**
 
-    Appuyer sur Ghost eShop DS
+    Appuyez sur Ghost eShop DS
     <div><img src="screen/5.png" height="300px"></div>
 * **Sixième étape :**
 
@@ -58,4 +59,4 @@ Voilà, la base de données DS de Ghost eShop est maintenant ajoutée à votre h
 
 Et si vous souhaitez changer de base de données, il vous suffit de retourner dans les paramètres de l'homebrew, puis sur "selectionner un eShop", et enfin de cliquer sur la base de données que vous souhaitez afficher.
 
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/a7vdfT6YPq)
