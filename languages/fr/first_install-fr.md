@@ -1,4 +1,4 @@
-### __Première installation:__
+### __Première installation :__
 
 
 **📙 À lire :**
