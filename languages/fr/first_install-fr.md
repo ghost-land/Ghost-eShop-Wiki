@@ -4,7 +4,7 @@
 **📙 À lire :**
 *Afin de ne pas avoir de problèmes par la suite, veuillez à bien suivre ce guide **étape par étape***
 
-**Rappel :**
+**Rappels :**
 * Si vous ne savez pas ce qu'est une 3DS (Ce qui m'étonnerait vu que vous êtes ici 😂), alors voici sa magnifique page de Wikipedia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
 * Afin que vous compreniez au mieux ce guide, il vous faut savoir que les mots ou groupe de mots [soulignés et de couleur bleu]() sont des hyperliens, et donc en cliquant dessus, celà vous redirigera vers une autre page (par exemple : [FBI](https://github.com/lifehackerhansol/FBI) qui est le github de lifehackeransol (qui est un fork comme le lien officiel de FBI a sauté). Pour plus de précisions, veuillez lire [cette documentation markdown](https://cours-web.ch/divers/markdown/).
 * Et pour finir les rappels, Ghost eShop Team n'est en aucun cas responsable d'éventuels dommages que vous pourriez causer à votre système, normalement si vous suivez bien ce guide, vous n'aurez aucun problèmes, mais si vous en rencontrez un, vous pouvez toujours contacter le staff de Ghost eShop Team en rejoignant [le serveur discord](https://discord.gg/a7vdfT6YPq).
