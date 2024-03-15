@@ -15,7 +15,7 @@
     * [Français](./languages/fr/fr.md)
         * [Première installation](./languages/fr/first_install-fr.md)
         * [Guide de démarrage](./languages/fr/start_guide-fr.md)
-            * [Ecran d'Accueil](./languages/fr/screen/home-fr.md)
+            * [Écran d'Accueil](./languages/fr/screen/home-fr.md)
         * [Problèmes récurrents](./languages/fr/recurring_problems-fr.md)
         * [Tutoriel NDS pour Ghost eShop](./languages/fr/tutorialnds-fr.md)
         * [Tutoriel de la BETA 3DS de Ghost eShop](./languages/fr/beta_3ds.md)
