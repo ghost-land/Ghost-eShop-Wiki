@@ -46,7 +46,7 @@ ___
 * **Septième étape :**
 
     Configurez ensuite le proxy comme sur la capture d'écran juste en dessous :
-    <div><img src="screen/12.png" height="300px"></div>
+    <div><img src="screen/12.png" height="500px"></div>
 * **Huitième étape :**
 
     Cliquez ensuite sur ``OK`` en bas à droite de l'écran du bas, puis sur ``Sauvegarder`` et testez ensuite votre connexion. Si tout est bon, vous aurez un message comme ça :

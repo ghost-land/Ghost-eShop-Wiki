@@ -45,7 +45,7 @@ ___
 * **Seventh step :**
 
     Then configure the proxy as shown in the screenshot below:
-    <div><img src="screen/12.png" height="300px"></div>
+    <div><img src="screen/12.png" height="500px"></div>
 * **Step n°8 :**
 
     Then click on ``OK`` in the bottom right-hand corner of the screen, then on ``Save``, then test your connection. If all goes well, you'll see the screenshot below:
