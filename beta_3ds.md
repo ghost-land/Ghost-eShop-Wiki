@@ -30,7 +30,7 @@ ___
     Once this has been done, put your (micro) SD card back into your console, then start your console and press the ``Select`` button on your console to access the Luma configuration menu.
 * **Third step :**
 
-    Once in the Luma configuration menu, make sure you have selected "Enbale loading external FIRMs and modules" as shown in the image, and then press the ``Start`` button to save the configuration and restart the console.
+    Once in the Luma configuration menu, make sure you have selected "Enable loading external FIRMs and modules" as shown in the image, and then press the ``Start`` button to save the configuration and restart the console.
     <div><img src="screen/10.png" height="300px"></div>
 * **Fourth step :**
 
