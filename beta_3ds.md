@@ -37,7 +37,7 @@ ___
     Once the console is fully powered up, open System Settings, then go to ``Internet Settings > Connection Settings``.
 * **Fifth step :**
 
-    Create a new connection (if you don't already have one) You then have two choices, either ``New Connection`` if your console isn't already connected to the Internet, or click on your current connection (for example, ``Connection 1``).
+    Create a new connection (if you don't already have one) and select your current connection (for example, ``Connection 1``).
 * **Sixth step :**
 
     Once in the connection settings, select ``Change Settings``, then on the second page click on ``Proxy Settings``, select ``Yes`` to enable it, and then select ``Detailed Setup``.
