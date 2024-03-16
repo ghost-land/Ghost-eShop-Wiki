@@ -40,7 +40,7 @@ ___
     Create a new connection (if you don't already have one) and select your current connection (for example, ``Connection 1``).
 * **Sixth step :**
 
-    Once in the connection settings, select ``Change Settings``, then on the second page click on ``Proxy Settings``, select ``Yes`` to enable it, and then select ``Detailed Setup``.
+    Once in the connection settings, select ``Change Settings``, then on the second page select ``Proxy Settings``, select ``Yes`` to enable it, and then select ``Detailed Setup``.
     <div><img src="screen/11_en.png" height="300px"></div>
 * **Seventh step :**
 
