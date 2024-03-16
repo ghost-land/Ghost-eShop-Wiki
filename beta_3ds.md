@@ -23,54 +23,58 @@ ___
 
 * **First step :**
 
-    Place [this patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) in your 3DS (micro) SD card, so that the file looks like this: ``sd:/luma/sysmodules/0004013000002F02.ips``.
+    Place [this patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) in your 3DS (micro) SD card in the following location: ``sd:/luma/sysmodules/0004013000002F02.ips``. Create the ``luma/sysmodules`` folder if it does not already exist:
     <div><img src="screen/9.png" height="200px"></div>
 * **Second Step :**
 
-    Once this has been done, put your (micro) SD card back into your console, then start your console by pressing the ``select`` button on your console to access the luma configuration menu.
+    Once this has been done, put your (micro) SD card back into your console, then start your console and press the ``Select`` button on your console to access the Luma configuration menu.
 * **Third step :**
 
-    Once on the luma configuration menu, make sure you have selected as shown in the image and then press the ``start`` button to save the configuration and restart the console.
+    Once in the Luma configuration menu, make sure you have selected "Enable loading external FIRMs and modules" as shown in the image, and then press the ``Start`` button to save the configuration and restart the console.
     <div><img src="screen/10.png" height="300px"></div>
 * **Fourth step :**
 
-    Once the console is fully powered up, go to: ``Console settings > Internet settings > Connection settings``
+    Once the console is fully powered up, open System Settings, then go to ``Internet Settings > Connection Settings``.
 * **Fifth step :**
 
-    You then have two choices, either ``New connection`` if your console isn't already connected to the Internet, or click on your current connection (for me it's ``Connection 1``, for example).
+    Create a new connection (if you don't already have one) and select your current connection (for example, ``Connection 1``).
 * **Sixth step :**
 
-    Once in your connection settings, click on ``Edit``, then on the second page click on ``Proxy server``, click on ``Yes`` and then on ``Advanced settings``.
-    <div><img src="screen/11.png" height="300px"></div>
+    Once in the connection settings, select ``Change Settings``, then on the second page select ``Proxy Settings``, select ``Yes`` to enable it, and then select ``Detailed Setup``.
+    <div><img src="screen/11_en.png" height="300px"></div>
 * **Seventh step :**
 
-    Then configure the proxy as shown in the screenshot below:
+    Configure the proxy as shown in the screenshot below:
     <div><img src="screen/12.png" height="500px"></div>
 * **Step n°8 :**
 
-    Then click on ``OK`` in the bottom right-hand corner of the screen, then on ``Save``, then test your connection. If all goes well, you'll see the screenshot below:
-    <div><img src="screen/13.png" height="300px"></div>
+    Select ``OK`` in the bottom right-hand corner of the screen, then on ``Save``, then test your connection. If all goes well, you'll see the screenshot below:
+    <div><img src="screen/13_en.png" height="300px"></div>
 * **Step n°9 :**
 
-    Then return to your console's home menu and, to avoid any bugs or errors, reboot your console.
+    Exit System Settings and return to your console's home menu. To avoid any potential bugs or errors, restart your console.
 * **Step n°10 :**
 
-    Once all this is done, you should be able to access the eShop
-    <div><img src="screen/14.png" height="300px"></div>
+    Once all this is done, you should be able to access the eShop.
+    <div><img src="screen/14_en.png" height="300px"></div>
 * **Step n°11 :**
 
-    Once in the eShop, press ``Menu`` (top left of the lower console screen), then scroll down to ``Settings/Other``.
+    Once in the eShop, press ``Menu`` (top left of the lower console screen), then scroll down to ``Settings/Other`` and select it.
 * **Step n°12 :**
 
-    Then scroll down to the ``History`` section and click on ``Activities on your account``, you'll normally get a fake error message displaying your 3DS Key, as shown on the screen.
-    <div><img src="screen/15.png" height="300px"></div>
+    Then scroll down to the ``History`` section and select ``Account Activity``, you should get a fake error message displaying your 3DS Key, as shown below.
+    <div><img src="screen/15_en.png" height="300px"></div>
 * **Step n°13 :**
 
-    With a PC access [this page](https://ghseshop.cc/signup), you should get the same page as on the screenshot just below:
+    With a PC or mobile device, access [this page](https://ghseshop.cc/signup). You should see something like this:
     <div><img src="screen/16.png" height="300px"></div>
 * **Step n°14 :**
 
-    You'll need to register by entering : A user name (Username), an email if possible valid in case of problem or account recovery request (**no account recovery can be done without a valid email**), your 3DS Key that you should see on your 3DS as said before, then a password (Tip: do not put passwords used other passwords, do not put for example the same password as your email address ...).
+    You'll need to register for an account by entering the following:
+    - A user name
+    - An email, in case of a problem or account recovery request (**no account recovery can be done without a valid email!**) 
+    - Your 3DS Key that was mentioned earlier
+    - A password (Tip: do not put passwords used other passwords, do not put for example the same password as your email address ...).
 * **Step n°15 :**
 
     Once you've done that, you can click on the ``SIGN UP`` button, then log in if you're not.
