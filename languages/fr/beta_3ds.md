@@ -68,7 +68,7 @@ ___
 * **Etape n°13 :**
 
     Depuis un PC, accèdez à [cette page](https://ghseshop.cc/signup). Vous devriez tomber sur cette page :
-    <div><img src="screen/16.png" height="300px"></div>
+    <div><img src="screen/16.png" height="350px"></div>
 * **Etape n°14 :**
 
     Vous allez donc devoir vous inscrire en rentrant : Un nom d'utilisateur, une adresse email si possible valide en cas de problèmes ou de demande de récupération de compte (**aucune récupération de compte ne pourra être faite sans une adresse email valide**), votre clé 3DS que vous devriez voir actuellement sur votre 3DS ou que vous avez noté quelque part et pour finir un mot de passe (conseil : ne mettez pas un mot de passe souvent utilisé, par exemple le même mot de passe que votre adresse email...)
@@ -76,7 +76,7 @@ ___
 
     Une fois cela fait, vous pouvez cliquer sur le bouton ``SIGN UP`` puis vous connecter si vous ne l'êtes pas déjà
     Vous devriez voir quelque chose comme ça :
-    <div><img src="screen/17.png" height="300px"></div>
+    <div><img src="screen/17.png" height="500px"></div>
 * **Dernière étape :**
 
     Enjoy ☺️​

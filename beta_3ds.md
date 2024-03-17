@@ -67,7 +67,7 @@ ___
 * **Step n°13 :**
 
     With a PC or mobile device, access [this page](https://ghseshop.cc/signup). You should see something like this:
-    <div><img src="screen/16.png" height="300px"></div>
+    <div><img src="screen/16.png" height="350px"></div>
 * **Step n°14 :**
 
     You'll need to register for an account by entering the following:
@@ -79,7 +79,7 @@ ___
 
     Once you've done that, you can click on the ``SIGN UP`` button, then log in if you're not.
     You should see the screenshot below:
-    <div><img src="screen/17.png" height="300px"></div>
+    <div><img src="screen/17.png" height="500px"></div>
 * **Last Step :**
 
     Enjoy ☺️​
