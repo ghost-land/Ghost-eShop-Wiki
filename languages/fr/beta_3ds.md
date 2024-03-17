@@ -32,7 +32,7 @@ ___
 * **Troisième étape :**
 
     Une fois sur le menu de configuration de luma soyez sûr d'avoir sélectionné "Enable loading external FIRMs and modules" comme sur l'image et d'avoir ensuite appuyé sur le bouton ``start`` afin de sauvegarder la configuration et redémarrer la console
-    <div><img src="screen/10.png" height="300px"></div>
+    <div><img src="screen/10.png" height="400px"></div>
 * **Quatrième étape :**
 
     Une fois la console complètement allumée, allez dans : ``Paramètres de la console > Paramètres Internet > Paramètres de connexion``

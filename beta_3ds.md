@@ -31,7 +31,7 @@ ___
 * **Third step :**
 
     Once in the Luma configuration menu, make sure you have selected "Enable loading external FIRMs and modules" as shown in the image, and then press the ``Start`` button to save the configuration and restart the console.
-    <div><img src="screen/10.png" height="300px"></div>
+    <div><img src="screen/10.png" height="400px"></div>
 * **Fourth step :**
 
     Once the console is fully powered up, open System Settings, then go to ``Internet Settings > Connection Settings``.
