@@ -42,29 +42,29 @@ ___
 * **Sixième étape :**
 
     Une fois dans les paramètres de votre connexion, cliquez sur ``Modifier``, puis sur la deuxième page cliquez sur ``Serveur proxy``, cliquer sur ``Oui`` et ensuite sur ``Paramètres avancés``
-    <div><img src="screen/11.png" height="300px"></div>
+    <div><img src="screen/11.png" height="450px"></div>
 * **Septième étape :**
 
     Configurez ensuite le proxy comme sur la capture d'écran juste en dessous :
-    <div><img src="screen/12.png" height="500px"></div>
+    <div><img src="screen/12.png" height="450px"></div>
 * **Huitième étape :**
 
     Cliquez ensuite sur ``OK`` en bas à droite de l'écran du bas, puis sur ``Sauvegarder`` et testez ensuite votre connexion. Si tout est bon, vous aurez un message comme ça :
-    <div><img src="screen/13.png" height="300px"></div>
+    <div><img src="screen/13.png" height="450px"></div>
 * **Neuvième étape :**
 
     Retournez ensuite sur le menu home de votre console et afin d'éviter d'éventuel bug ou erreur, rédémarrez votre console
 * **Etape n°10 :**
 
     Une fois tout cela fais, vous devriez pouvoir accèder à l'eShop
-    <div><img src="screen/14.png" height="300px"></div>
+    <div><img src="screen/14.png" height="450px"></div>
 * **Etape n°11 :**
 
     Une fois dans l'eShop, appuyez sur ``Menu`` (en haut à gauche de l'écran inférieur de la console), puis descendez jusqu'à ``Paramètres/Autres``
 * **Etape n°12 :**
 
     Descendez ensuite jusqu'à la partie ``Historique`` et cliquez sur ``Activités sur votre compte``, vous aurez normalement un faux message d'erreur affichant votre clé 3DS (3DS Key), comme ça
-    <div><img src="screen/15.png" height="300px"></div>
+    <div><img src="screen/15.png" height="450px"></div>
 * **Etape n°13 :**
 
     Depuis un PC, accèdez à [cette page](https://ghseshop.cc/signup). Vous devriez tomber sur cette page :
