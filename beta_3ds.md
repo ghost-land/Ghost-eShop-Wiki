@@ -23,7 +23,7 @@ ___
 
 * **First step :**
 
-    Place [this patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) in your 3DS (micro) SD card in the following location: ``sd:/luma/sysmodules/0004013000002F02.ips``. Create the ``luma/sysmodules`` folder if it does not already exist:
+    Place [this patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) in your 3DS (micro) SD card in the following location: ``sd:/luma/sysmodules/0004013000002F02.ips``. Create the ``luma/sysmodules`` folder if it does not already exist, and don't forget to rename the ``code.ips`` file to ``0004013000002F02.ips`` :
     <div><img src="screen/9.png" height="200px"></div>
 * **Second Step :**
 

@@ -24,7 +24,7 @@ ___
 
 * **Première étape :**
 
-    Placez [ce patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) dans la carte (micro) SD de votre 3DS dans le dossier ``SD:\luma\sysmodules`` et renommez-le en ``0004013000002F02.ips`` afin d'avoir quelque chose comme ça
+    Placez [ce patch](https://raw.githubusercontent.com/InternalLoss/3DS-SSL-Patch/master/code.ips) dans la carte (micro) SD de votre 3DS dans le dossier ``SD:\luma\sysmodules`` et renommez-le en ``0004013000002F02.ips`` afin d'avoir quelque chose comme ça :
     <div><img src="screen/9.png" height="200px"></div>
 * **Deuxième étape :**
 
