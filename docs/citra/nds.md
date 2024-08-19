@@ -25,7 +25,7 @@ ___
 In order to install the Ghost eShop homebrew, you will need :
 
 * A modded console 🏴‍☠️. (See [here](https://3ds.hacks.guide/))
-* Have installed the Ghost eShop homebrew, to install it, you can find a guide [here](./first_install.md)
+* Have installed the Ghost eShop homebrew, to install it, you can find a guide here
 * And finally, a little patience...
 
 ___

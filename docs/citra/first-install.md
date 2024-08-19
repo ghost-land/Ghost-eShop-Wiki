@@ -41,8 +41,6 @@ There are two solutions available to you :
     * After waiting for the end of the installation, press **once** on the button **(A)**
     * Then press **two** times on the button **(B)**
     * Then **once** on the ```start``` button
-    
-    That's it, the homebrew Ghost eShop is now installed, for the rest of the guide, follow the [First Start Guide](./start_guide.md).
 
 * Or the second solution is much faster and can be done from téléphone📱
 
