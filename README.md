@@ -1,57 +1,41 @@
-### **Welcome to the official Ghost eShop Alternative wiki**
-<div align="center"><a href="https://ghosteshop.com"><img src="http://ghosteshop.com/icon.png" height="64px"></a></div>
+# Website
 
-___
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
-#### **FAQ**
-**What is the Ghost eShop ?**
+### Installation
 
-Ghost eShop Alternative, as its name says is an eshop 3DS Alternative allowing you to get all your 3DS games, see more...
-Straight from the console.
-___
-**Who is the creator ?**
+```
+$ yarn
+```
 
-The creator of this project is Ghost0159, but now Ghost eShop is maintained by **Ghost eShop Team**
-___
-**Is Ghost eShop like freeshop ?**
+### Local Development
 
-For a simple user, Ghost eShop could be like freeshop, because it allows to get all your games for free, but it does not have at all the same mode of operation is not powered by Nintendo, as was the freeshop thanks to the titles keys, for more details on freeshop, see [here](https://freeshop.pw).
-___
-**Why create Ghost eShop ?**
+```
+$ yarn start
+```
 
-Ghost eShop was creating basic, just like temp, but seeing that this one interested quite a lot of people, I decided to continue it, to improve it, in order to arrive at what you can have today.
-___
-**What is the relationship between the Ghost eShop, Ghost eShop Team and Universal-Team, Universal-Updater ?**
+This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-Universal-Updater of Universal-Team, during these old versions supported simple JSON scripts, so Ghost eShop was only a simple script, then it evolved into ``. unistore``, so you can add the sprites.
-And then, there was the creation of the fork of Universal-Updater, at the moment, Ghost eShop is still a fork, on which we add improvements, such as the size of the games in the description of them, the additionel contents, more translation...
+### Build
 
-In short, if you want more information about Universal-Updater, which I recall and **against ghost eShop** and thus against the original idea of Ghost eShop.
-So for more information follow [this link](https://github.com/Unversal-Team/).
-___
-**Can I add games myself ?**
+```
+$ yarn build
+```
 
-No, it is impossible for you to even add one or more games, but nevertheless, you can always ask from [this form](https://forms.gle/oeExF7qWyDTjwSfe9) server that this or that game be added.
-___
-**How can I contact you ?**
+This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-You can contact the creator of this project, and thus the highest ranking of this project, for that you can contact him by [email](mailto:admin@ghosteshop.com).
+### Deployment
 
-You can of course discuss with the Ghost eShop team via the discord available just below this page.
-___
-<B>ScreenShot of Ghost eShop</B>
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="400"
-      height="480"
-      style="border : none;"
-      src="./carrousel/carrousel.html">
-  </iframe>
-</div>
+Using SSH:
 
-___
+```
+$ USE_SSH=true yarn deploy
+```
 
-[![Discord](https://discordapp.com/api/guilds/633965704424718336/widget.png?style=banner3&time)](https://discord.gg/9Rqvh9F)
+Not using SSH:
 
-<a href="https://github.com/ghost-land" style="padding-left: 5px; padding-right: 5px;"><img src="https://img.shields.io/badge/&copy;Ghost_eShop_Team-2020_|_2022-red.svg" height="20"></a>
+```
+$ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

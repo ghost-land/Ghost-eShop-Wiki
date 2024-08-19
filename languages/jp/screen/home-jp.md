@@ -1,1 +1,0 @@
-今のところ、このWikiページは作られていませんが、Wikiに協力したい方は、[本レポジトリ](https://github.com/ghost-land/Ghost-eShop-Wiki)から参加することが可能です。
