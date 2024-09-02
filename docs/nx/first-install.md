@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # First Install
+How Install Ghost eShop on Switch ?
 
 ---
 
