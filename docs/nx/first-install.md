@@ -23,13 +23,14 @@ __**PART 2 (Run and configurate Tinfoil)**__
 - Please select "*File Browser*" and press the "**-**" Button (Minus) to add a new Source to you Browser.
 - Now put the following Credentials Line by Line:
 
-
-**Protocol:** *https* [**Please make sure you selected** "*https*" **instead of** "*http*"]<br>
-**Host:** *nx.ghostland.at*<br>
-**Path:** */*<br>
-**Username:** [*keep that clean*]<br>
-**Password:** [*keep that clean*]<br>
-**Title:** *Ghost eShop Public*<br>
+```
+**Protocol:** *https* [**Please make sure you selected** "*https*" **instead of** "*http*"]
+**Host:** *nx.ghostland.at*
+**Path:** */*
+**Username:** [*keep that clean*]
+**Password:** [*keep that clean*]
+**Title:** *Ghost eShop Public*
+```
 
 - If you have done this, you are ready to go and now have some more Tabs in the left Menu
 
