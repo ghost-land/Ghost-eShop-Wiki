@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# Recurring Problems
+# Problèmes récurrents
 
-You have a problem?
+Besoin d'aide sur un problème?
 
 ---
 

@@ -2,14 +2,15 @@
 sidebar_position: 6
 ---
 
-# Missing Content
-Can't find any content?
+# Contenu Manquant
+Vous ne trouvez pas ce que vous voulez ?
 
 ---
 
-Hello everyone,
-you want to contribute us Files (like *.nsp, .xci*), please check first this [link](https://nx-missing.ghostland.at/).
+Bonjour à tous,
 
-If you are sure, you can use our [request form](https://forms.gle/oeExF7qWyDTjwSfe9) and please type in the Link where you found the missing File.
+si vous souhaitez nous contribuer des fichiers (comme *.nsp, *.xci*), veuillez d'abord consulter ce [lien](https://nx-missing.ghostland.at/).
 
-At the Moment it isnt possible to send a File directly on our Server, you can try to send it via Telegram to Ghost.
+Si vous êtes sûr de contribuer, vous pouvez utiliser notre [formulaire de demande](https://forms.gle/oeExF7qWyDTjwSfe9) et y indiquer le lien où vous avez trouvé le fichier manquant.
+
+Pour le moment, il n'est pas possible d'envoyer un fichier directement sur notre serveur, mais vous pouvez essayer de l'envoyer via Telegram ou sur l'un de nos réseaux sociaux [ici](https://social.ghostland.at).

@@ -2,23 +2,20 @@
 sidebar_position: 9
 ---
 
-# Special Thanks
-Thank you to everyone who contributed
+# Remerciements Spéciaux
+Merci à tous ceux qui ont contribué
 
 ---
 
-This is Ghost speaking and my entire Team behind Ghostland,
+Ici Ghost, ainsi que toute mon équipe derrière Ghostland,
 
-We wanna say thanks to you!
-You are the Reason why we are still existing!
-Without you, we wouldnt get that popular as we are now, all your kindness
-and help through donations give us the possibility to upgrade our Servers,
-serve you better Content Quality and creating new Future Projects for you.
+Nous voulons vous dire merci !
+Vous êtes la raison pour laquelle nous existons encore !
+Sans vous, nous ne serions pas aussi populaires qu’aujourd’hui ; toute votre gentillesse
+et votre aide par le biais de vos dons nous permettent d'améliorer nos serveurs,
+de vous offrir un contenu de meilleure qualité et de créer de nouveaux projets pour l'avenir.
 
-Please dont hesitate to tell us your Opinion about the entire Project and
-even about the Team including myself. Via Telegram or through Guilded.
+N'hésitez pas à partager votre opinion sur l'ensemble du projet
+et même sur l'équipe, moi y compris.
 
-
-Links: [Telegram](https://t.me/ghosteshop) and [Guilded](https://www.guilded.gg/Ghost-eShop-NX)
-
-At the end .. Thank you very much for all your Support and the helping Hand!
+En somme... Merci infiniment pour tout votre soutien et votre précieuse aide !

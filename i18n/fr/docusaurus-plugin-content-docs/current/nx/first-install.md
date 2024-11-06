@@ -2,37 +2,37 @@
 sidebar_position: 1
 ---
 
-# First Install
-How Install Ghost eShop on Switch ?
+# Première Installation
+Comment installer Ghost eShop sur Switch ?
 
 ---
 
-Hello Dear Ghostland User/Member,
+Bonjour cher utilisateur/membre de Ghost eShop,
 
-to use our Switch Tinfoil Service, please follow these steps to use our Service:
+pour utiliser notre service Switch Tinfoil, veuillez suivre ces étapes :
 
-__**PART 1 (Download and run Tinfoil)**__
-- Visit (_*http://www.tinfoil.io*_) and download the desired File you want to have.
-- You have the Choice to download an "**Self Installer**" (*.nsp and .nro included*) i recommend to use the "*.nro*" to avoid the Chance to be get banned from __**Nintendo**__.
-- If not happend, please shut down your Switch completely (No Standby) and take out the SD Card, connect to you Computer.
-- Unzip the File of Tinfoil and copy the Folder (**/switch**) to your Root of your SD Card (**SD:/** If the Window prompts for Merging, do it please).
-- Please disconnect your SD Card from PC, put it back into your Switch and boot your Switch up like you always do.
-- To use the "*.nro*" you have to run any Game, but before you do, hold the "**R**" Button and launch the Game, to enter "**RAM**" Mode.
+__**PARTIE 1 (Télécharger et exécuter Tinfoil)**__
+- Rendez-vous sur (_*https://tinfoil.io/Download#download*_) et téléchargez le fichier souhaité.
+- Vous avez le choix de télécharger un "**Self Installer**" (incluant *.nsp et .nro*). Je recommande d'utiliser le "*.nro*" pour éviter le risque d'être banni par __**Nintendo**__.
+- Si rien ne se passe après l'installation, éteignez complètement votre Switch (pas en veille), retirez la carte SD, et connectez-la à votre ordinateur.
+- Décompressez le fichier de Tinfoil et copiez le dossier (**/switch**) à la racine de votre carte SD (**SD:/**. Si une fenêtre vous demande de fusionner les dossiers, acceptez).
+- Déconnectez votre carte SD de l'ordinateur, réinsérez-la dans votre Switch et démarrez-la normalement.
+- Pour utiliser le "*.nro*", vous devez lancer n'importe quel jeu en maintenant le bouton "**R**" enfoncé avant de lancer le jeu, pour entrer en mode "**RAM**".
 
-__**PART 2 (Run and configurate Tinfoil)**__
-- You are now in the "**Homebrew Menu**", now launch the Tinfoil.nro File.
-- Please select "*File Browser*" and press the "**-**" Button (Minus) to add a new Source to you Browser.
-- Now put the following Credentials Line by Line:
+__**PARTIE 2 (Lancer et configurer Tinfoil)**__
+- Vous êtes maintenant dans le "**Homebrew Menu**". Lancez le fichier Tinfoil.nro.
+- Sélectionnez "*File Browser*" et appuyez sur le bouton "**-**" (Moins) pour ajouter une nouvelle source.
+- Saisissez maintenant les informations suivantes ligne par ligne :
 
 ```
-Protocol: https [Please make sure you selected "https" instead of "http"]
+Protocol: https [Assurez-vous d'avoir sélectionné "https" au lieu de "http"]
 Host: nx.ghostland.at
 Path: /
-Username: [keep that clean]
-Password: [keep that clean]
+Username: [laissez vide]
+Password: [laissez vide]
 Title: Ghost eShop Public
 ```
 
-- If you have done this, you are ready to go and now have some more Tabs in the left Menu
+- Une fois cela fait, vous êtes prêt et vous verrez de nouveaux onglets dans le menu de gauche.
 
-Have Fun!
+Amusez-vous bien !
