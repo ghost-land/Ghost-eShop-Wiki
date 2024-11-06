@@ -2,78 +2,78 @@
 sidebar_position: 1
 ---
 
-# First Install
+# Première Installation
 
-How install Ghost eShop on 3DS?
+Comment installer Ghost eShop sur 3DS ?
 
 
-**📙 Read :**
-*In order not to have any problems afterwards, please follow this guide **step by step***
+**📙 À Lire :**
+*Pour éviter tout problème par la suite, veuillez suivre ce guide **étape par étape***
 
-**Reminders :**
-* If you don’t know what is a 3DS (What to put if you are here 😂 ), then here is the beautiful Wikipedia page: [here](https://en.wikipedia.org/wiki/Nintendo_3DS).
-* In order for you to fully understand this guide, you need to know that words or groups of words underline and blue colours are links, it will redirect you to another page, for example : [FBI](https://github.com/Steveice10/FBI) you will redirect to the github of Steveice 10 for more details read [this markdown documentation](https://cours-web.ch/divers/markdown/).
-* And to finish the reminders, Ghost eshop team is in no way responsible for any damage that you could cause to your console or others, normally if you follow this guide, you will have no problem, but if they turned out to be a problem, you can always contact the Ghost eshop team staff by joining [the discord server](https://discord.gg/ENFGnYrKMf).
-**If you don’t know what you’re doing, don’t do it or let a competent person do it.**
+**Rappels :**
+* Si vous ne savez pas ce qu'est une 3DS (ce qui serait étonnant si vous êtes ici 😂 ), voici la magnifique page Wikipédia: [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
+* Pour bien comprendre ce guide, sachez que les mots ou groupes de mots soulignés en bleu sont des liens, qui vous redirigeront vers une autre page. Par exemple: [FBI](https://github.com/Steveice10/FBI) vous redirige vers le GitHub de Steveice10. Pour plus de détails, consultez [cette documentation sur Markdown](https://cours-web.ch/divers/markdown/).
+* Enfin, l'équipe de Ghost eShop décline toute responsabilité en cas de dommages causés à votre console ou à d'autres éléments. Normalement, si vous suivez ce guide, vous ne rencontrerez aucun problème. Cependant, en cas de souci, vous pouvez toujours contacter l'équipe de Ghost eShop en rejoignant [l'un de nos réseaux sociaux](https://social.ghostland.at/).
+**Si vous ne savez pas ce que vous faites, ne le faites pas ou laissez une personne compétente le faire.**
 
 ___
-#### 🏁 1- Prerequisite :
-In order to install the Ghost eShop homebrew, you will need :
+#### 🏁 1- Prérequis :
+Pour installer l'homebrew Ghost eShop, vous aurez besoin de :
 
-* A hacked console 🏴‍☠️. (See [here](https://3ds.hacks.guide/))
-* A .cia file installer, such as [FBI](https://github.com/Steveice10/FBI), or the [Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ](https://github.com/fincs/new-hbmenu) in order to start a .3dsx.
-* A SD💾 Card with at least 2Gb of free space (Because even if the homebrew is only a few MB, it would be silly not to have space and therefore not to be able to install a game)
-* And finally, a bit of patience...
+* Une console hackée 🏴‍☠️. (Voir [ici](https://3ds.hacks.guide/))
+* Un installateur de fichiers .cia, tel que [FBI](https://github.com/Steveice10/FBI), ou l'[Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ](https://github.com/fincs/new-hbmenu) pour lancer un fichier .3dsx.
+* Une carte SD💾 avec au moins 2 Go d'espace libre (Car même si l'homebrew ne fait que quelques Mo, il serait dommage de ne pas avoir assez d'espace et donc de ne pas pouvoir installer de jeu)
+* Et enfin, un peu de patience...
 
 ___
 #### 2- Installation :
 
-In order to use the Homebrew Ghost eShop, you will of course need either the ```.cia``` or the ```.3dsx```
+Pour utiliser l'homebrew Ghost eShop, vous aurez bien sûr besoin soit du fichier ```.cia```, soit du fichier ```.3dsx```.
 
-**Let's start with the ```.cia``` :**
-There are two solutions available to you :
-* Either download [GhostEshop.cia](https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia) from a PC💻 or a téléphone📱 (Better to do it on a Windows or Linux PC)
+**Commençons par le fichier ```.cia``` :**
+Deux solutions s'offrent à vous :
+* Soit télécharger [GhostEshop.cia](https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia) depuis un PC💻 ou un téléphone📱 (De préférence sur un PC sous Windows ou Linux)
 
-    * Then put ```GhostEshop.cia``` on your SD card in ```sdmc:/CIAs/GhostEshop.cia```
-    * Then switch on your console with your SD Card inserted in the front of the console, containing ```GhostEshop.cia```
-    * Then go into the FBI homebrew
-    * And then: ```SD > CIAs > Go down to GhostEshop.cia > click on the button (A) > Install and delete CIA > click on the button (A)```
-    * After waiting for the end of the installation, press **once** on the button **(A)**
-    * Then press **two** times on the button **(B)**
-    * Then **once** on the ```start``` button
+    * Ensuite, placez ```GhostEshop.cia``` sur votre carte SD dans ```sdmc:/CIAs/GhostEshop.cia```
+    * Allumez ensuite votre console avec la carte SD insérée à l'avant de la console, contenant ```GhostEshop.cia```
+    * Ensuite, ouvrez l'homebrew FBI
+    * Puis : ```SD > CIAs > Descendez jusqu'à GhostEshop.cia > appuyez sur le bouton (A) > Install and delete CIA > appuyez sur le bouton (A)```
+    * Après l'installation, appuyez **une fois** sur le bouton **(A)**
+    * Puis appuyez **deux fois** sur le bouton **(B)**
+    * Enfin, appuyez **une fois** sur le bouton ```start```
 
-* Or the second solution is much faster and can be done from téléphone📱
+* Ou la deuxième solution est beaucoup plus rapide et peut se faire depuis un téléphone📱
 
-    * To do this, turn on your console
-    * Go to the FBI Homebrew
-    * Once in the homebrew, go to ```Remote Install > Scan QR Code```
-    * Then you just have to scan the QR Code just below : 
+    * Pour cela, allumez votre console
+    * Allez dans l'homebrew FBI
+    * Une fois dans l'homebrew, allez à ```Remote Install > Scan QR Code```
+    * Ensuite, il vous suffit de scanner le QR Code ci-dessous : 
     <img src="https://cdn.ghosteshop.com/Homebrew/GhostEshop%20%28.cia%29.png" alt="3DS CIA QRCODE" width="200" height="200" />
     
-    * Then click **once** on the button **(A)**
-    * Wait for the end of the installation...
-    * Then click **once** on the button **(A)**
-    * Then **two times** on the button **(B)**
-    * Then **once** on the ```start``` button
+    * Ensuite, appuyez **une fois** sur le bouton **(A)**
+    * Attendez la fin de l'installation...
+    * Puis appuyez **une fois** sur le bouton **(A)**
+    * Ensuite, **deux fois** sur le bouton **(B)**
+    * Enfin, **une fois** sur le bouton ```start```
 
 
-**Then, if you don't want to install the ```.cia```, it is also possible to start the Homebrew GhosteShop from a ```.3dsx```, which will then run with the Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ :**
-* Well, to start, we will download ```GhostEshop.3dsx```, and place it through a computer *(Phone not recommended for this part)*
-    * To start, you will download [GhostEshop.3dsx](https://cdn.ghosteshop.com/Homebrew/GhostEshop.3dsx), if needed here is the ```.smdh``` : [GhostEshop.smdh](https://cdn.ghosteshop.com/Homebrew/GhostEshop.smdh)
-    * Once downloaded, place ```GhostEshop.3dsx``` in ```sdmc:/3ds/GhostEshop.3dsx```
-    * That's it, all you have to do is turn on the Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ, then start the Homebrew Ghost eShop
+**Ensuite, si vous ne souhaitez pas installer le ```.cia```, il est également possible de lancer l'Homebrew Ghost eShop à partir d'un fichier ```.3dsx```, qui fonctionnera ensuite avec l'Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ :**
+* Pour commencer, nous allons télécharger ```GhostEshop.3dsx``` et le placer via un ordinateur *(Téléphone déconseillé pour cette partie)*.
+    * Commencez par télécharger [GhostEshop.3dsx](https://cdn.ghosteshop.com/Homebrew/GhostEshop.3dsx), et si besoin, voici le fichier ```.smdh``` : [GhostEshop.smdh](https://cdn.ghosteshop.com/Homebrew/GhostEshop.smdh)
+    * Une fois téléchargé, placez ```GhostEshop.3dsx``` dans ```sdmc:/3ds/GhostEshop.3dsx```
+    * Voilà, il vous suffit de lancer l'Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ, puis de démarrer l'Homebrew Ghost eShop
 
-* But, there is also another solution to be able to download the ```.3dsx``` directly from the console.
-    * To do this, turn on your console
-    * Go to the FBI Homebrew
-    * Then in ```Remote Install > Scan QR Code```
-    * Then you just have to scan the QR Code just below :
+* Mais il existe également une autre solution pour télécharger le fichier ```.3dsx``` directement depuis la console.
+    * Pour cela, allumez votre console
+    * Allez dans l'homebrew FBI
+    * Puis dans ```Remote Install > Scan QR Code```
+    * Ensuite, il vous suffit de scanner le QR Code ci-dessous :
     <img src="https://cdn.ghosteshop.com/Homebrew/GhostEshop%20%28.3dsx%29.png" alt="3DS 3DSX QRCODE" width="200" height="200" />
 
-    * Then click on the **once** on the **(A)** button
-    * Wait for the end of the download...
-    * Then click **once** on the button **(A)**
-    * Then **two times** on the button **(B)**
-    * Then **once** on the ```start``` button
-    * Then all you have to do is start the Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
-    * Then run the Homebrew Ghost eShop
+    * Ensuite, appuyez **une fois** sur le bouton **(A)**
+    * Attendez la fin du téléchargement...
+    * Puis appuyez **une fois** sur le bouton **(A)**
+    * Ensuite, **deux fois** sur le bouton **(B)**
+    * Puis **une fois** sur le bouton ```start```
+    * Il ne vous reste plus qu'à lancer l'Homebrew Launcher (∩ ͡° ͜ʖ ͡°)⊃━☆ﾟ
+    * Puis à exécuter l'Homebrew Ghost eShop
