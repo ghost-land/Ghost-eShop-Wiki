@@ -25,7 +25,7 @@ ___
 Pour installer l'homebrew Ghost eShop, vous aurez besoin de :
 
 * Une console modifiée 🏴‍☠️ (Voir [ici](https://3ds.hacks.guide/))
-* Avoir installé l'homebrew Ghost eShop, pour l'installer, vous pouvez trouver un guide [ici](./fr/docs/citra/first-install)
+* Avoir installé l'homebrew Ghost eShop, pour l'installer, vous pouvez trouver un guide [ici](https://wiki.ghosteshop.com/fr/docs/citra/first-install)
 * Et enfin, un peu de patience...
 
 ___
