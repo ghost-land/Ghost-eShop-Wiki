@@ -2,67 +2,67 @@
 sidebar_position: 2
 ---
 
-# Nintendo DS on 3DS
+# Nintendo DS sur 3DS
 
-Do you want to play Nintendo DS games on your 3DS?
-
-
-### __Adding the Ghost eShop DS database from the Ghost eSHop homebrew :__
+Vous voulez jouer à des jeux Nintendo DS sur votre 3DS ?
 
 
-**📙 To read :**
-
-*In order for everything to work, please follow this guide **step by step***.
+### __Ajout de la base de données DS de Ghost eShop depuis l'homebrew Ghost eShop :__
 
 
-**Reminders :**
-* If you don't know what a 3DS is (which you will if you are here 😂), then here is the wonderful Wikipedia page : [here](https://en.wikipedia.org/wiki/Nintendo_3DS).
-* And to finish the reminders, Ghost eShop Team is in no way responsible for any damage you may cause to your console or other, normally if you follow this guide well, you will have no problems, but if there proved to be a problem, you can always contact the staff of Ghost eShop Team by joining [the server discord](https://discord.gg/ENFGnYrKMf).
-**If you don't know what you are doing, don't do it or let someone else do it.**
+**📙 À lire :**
 
-___
-#### 🏁 1- Prerequisites :
-In order to install the Ghost eShop homebrew, you will need :
+*Pour que tout fonctionne correctement, veuillez suivre ce guide **étape par étape***.
 
-* A modded console 🏴‍☠️. (See [here](https://3ds.hacks.guide/))
-* Have installed the Ghost eShop homebrew, to install it, you can find a guide here
-* And finally, a little patience...
+
+**Rappels :**
+* Si vous ne savez pas ce qu'est une 3DS (ce qui serait surprenant si vous êtes ici 😂), voici l'excellente page Wikipédia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
+* Pour finir avec les rappels, l'équipe de Ghost eShop n'est en aucun cas responsable des dommages que vous pourriez causer à votre console ou autre. En suivant ce guide, vous ne devriez pas rencontrer de problèmes. En cas de souci, vous pouvez toujours contacter l'équipe de Ghost eShop en rejoignant [nos réseaux sociaux](https://social.ghostland.at/).
+**Si vous ne savez pas ce que vous faites, ne le faites pas ou laissez quelqu'un d'autre le faire.**
 
 ___
-#### 2- Adding the Database :
+#### 🏁 1- Prérequis :
+Pour installer l'homebrew Ghost eShop, vous aurez besoin de :
 
-* **First step :**
+* Une console modifiée 🏴‍☠️ (Voir [ici](https://3ds.hacks.guide/))
+* Avoir installé l'homebrew Ghost eShop, pour l'installer, vous pouvez trouver un guide [ici](./fr/docs/citra/first-install)
+* Et enfin, un peu de patience...
 
-    Start the Ghost eShop homebrew
+___
+#### 2- Ajout de la base de données :
+
+* **Première étape :**
+
+    Lancez l'homebrew Ghost eShop
     <img src="/img/citra/screen/1.png" height="350" />
-* **Second step :**
+* **Deuxième étape :**
 
-    Go to the homebrew settings
+    Allez dans les paramètres de l'homebrew
     <img src="/img/citra/screen/2.png" height="350" />
-* **Third step :**
+* **Troisième étape :**
 
-    Go to select eShop
+    Sélectionnez "eShop"
     <img src="/img/citra/screen/3.png" height="350" />
-* **Fourth step :**
+* **Quatrième étape :**
 
-    Click on the "**+**" icon 
-* **Fifth step :**
+    Cliquez sur l'icône "**+**" 
+* **Cinquième étape :**
 
-    Press Ghost eShop DS
+    Appuyez sur Ghost eShop DS
     <img src="/img/citra/screen/5.png" height="350" />
-* **Sixth step :**
+* **Sixième étape :**
 
-    Wait for the end of the download (and be sure that the console is connected to the internet, if it is not the case it will not display the list of blinds)
+    Attendez la fin du téléchargement (assurez-vous que la console est connectée à Internet, sinon la liste ne s'affichera pas)
     <img src="/img/citra/screen/6.png" height="350" />
-* **Seventh step :**
+* **Septième étape :**
 
-    After downloading click on "ghosteshop-ds.unistore".
+    Après le téléchargement, cliquez sur "ghosteshop-ds.unistore".
     <img src="/img/citra/screen/7.png" height="350" />
-* **Last step :**
+* **Dernière étape :**
 
-    Enjoy ☺️​
+    Profitez-en ☺️​
     <img src="/img/citra/screen/8.png" height="350" />
 
-That's it, the Ghost eShop DS database is now added to your Ghost eShop homebrew.
+Voilà, la base de données Ghost eShop DS est maintenant ajoutée à votre homebrew Ghost eShop.
 
-And if you want to change the database, you just have to go back to the homebrew settings, then on "select eshop", then click on the database you want to display.
+Et si vous souhaitez changer de base de données, il vous suffit de retourner dans les paramètres de l'homebrew, puis dans "eShop", et de cliquer sur la base de données que vous souhaitez afficher.
