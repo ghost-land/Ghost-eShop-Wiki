@@ -1,6 +1,6 @@
 {
   "name": "ghost-eshop-wiki",
-  "version": "0.0.0",
+  "version": "3.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
