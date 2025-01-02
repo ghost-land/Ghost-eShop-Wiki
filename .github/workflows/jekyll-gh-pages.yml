@@ -4,12 +4,12 @@ on:
   # Trigger the workflow on push to the main branch
   push:
     branches: ["main"]
-
-  # Allows you to manually trigger the workflow from the Actions tab
+  # Allows manual trigger from the Actions tab
   workflow_dispatch:
 
+# Gives write (commit push) and deployment rights Pages
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -18,7 +18,6 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build the Docusaurus site
   build:
     runs-on: ubuntu-latest
     steps:
@@ -30,18 +29,32 @@ jobs:
         with:
           node-version: '18'
 
+      # 1) Installation with npm install (generates package-lock.json)
       - name: Install dependencies
-        run: npm ci
+        run: npm install
 
+      # 2) Commit lock file auto if modified
+      - name: Commit lockfile changes
+        run: |
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+          # Checks if any files have changed (especially package-lock.json)
+          if [ -n "$(git status --porcelain)" ]; then
+            git add package-lock.json
+            git commit -m "chore: update package-lock.json"
+            git push
+          fi
+
+      # 3) Site build
       - name: Build the Docusaurus site
         run: npm run build
 
+      # 4) Upload build artifact for deployment job
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./build
 
-  # Deploy to GitHub Pages
   deploy:
     environment:
       name: github-pages
