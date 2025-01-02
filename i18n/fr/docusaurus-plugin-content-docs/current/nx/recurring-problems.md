@@ -90,6 +90,21 @@ Un problème avec un service Ghost eShop NX ? Trouvez des solutions ici !
 
 ---
 
+### ❌ Erreur : L'onglet des jeux recommandés n'apparaît pas
+
+ℹ️ **Causes possibles :**  
+1. **Le site Tinfoil ([tinfoil.io](https://tinfoil.io)) est inaccessible.**  
+2. **Votre FAI bloque l'accès au site.**
+
+✅ **Solutions :**  
+- **Solution 1 :** Patientez jusqu'à ce que le site soit à nouveau accessible.  
+- **Solution 2 :** Si le site est bloqué, changez vos DNS sur la console avec :  
+  - **DNS Primaire** : `1.1.1.1`  
+  - **DNS Secondaire** : `1.0.0.1`  
+  Ou utilisez un VPN.
+
+---
+
 ## Console
 
 ### ❌ Erreur : L'icône du jeu est vide avec un cercle qui tourne

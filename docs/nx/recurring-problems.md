@@ -90,6 +90,21 @@ Having trouble with a Ghost eShop NX service? Find answers here!
 
 ---
 
+### ❌ Error: The Recommended Games tab does not appear
+
+ℹ️ **Possible Causes:**  
+1. **The Tinfoil site ([tinfoil.io](https://tinfoil.io)) is inaccessible.**  
+2. **Your ISP is blocking access to the site.**
+
+✅ **Solutions:**  
+- **Solution 1:** Wait until the site becomes accessible again.  
+- **Solution 2:** If the site is blocked, change your console's DNS settings to:  
+  - **Primary DNS:** `1.1.1.1`  
+  - **Secondary DNS:** `1.0.0.1`  
+  Or use a VPN.
+
+---
+
 ## Console
 
 ### ❌ Error: Game icon is blank with a spinning circle
