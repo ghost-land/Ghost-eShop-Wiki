@@ -126,29 +126,33 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Telegram',
-                href: 'https://t.me/ghosteshop',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://x.com/ghosteshop',
-              },
-              {
                 label: 'Reddit',
                 href: 'https://reddit.com/r/ghosteshop/',
+              },
+              {
+                label: 'Social Hub',
+                href: 'https://social.ghostland.at/',
+              },
+              {
+                label: 'Telegram',
+                href: 'https://t.me/geshhome',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              /*{
-                label: 'Blog',
-                to: '/blog',
-              },*/
               {
-                label: 'GitHub',
-                href: 'https://github.com/ghost-land',
+                label: 'DMCA',
+                href: 'https://ghostland.at/dmca',
+              },
+              {
+                label: 'Privacy Policy',
+                href: 'https://ghostland.at/privacy',
+              },
+              {
+                label: 'Service Status',
+                href: 'https://status.ghostland.at/',
               },
             ],
           },
