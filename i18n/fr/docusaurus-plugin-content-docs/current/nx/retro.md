@@ -62,8 +62,6 @@ Voici la liste des consoles rétro disponibles sur Ghost eShop Retro NX :
 
 ## 🌐 Accéder à Ghost eShop Retro NX  
 
-### Configuration spécifique pour Ghost eShop RETRO  
-
 1. Dans Tinfoil, configurez une nouvelle source avec les informations suivantes :  
 
    ```
