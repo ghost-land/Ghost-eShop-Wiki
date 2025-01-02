@@ -16,20 +16,20 @@ This guide is here to help you get started with **Ghost eShop** and resolve any 
 
 Explore the sections dedicated to each console to find the information you need:  
 
-### 🎮 [NX | Nintendo Switch](./category/nx--nintendo-switch)  
+### 🎮 NX | Nintendo Switch 
 - Getting started with your Switch  
 - Accessing the Pro Shop  
 - Solutions to common issues  
 - Managing game saves  
 - Retro content and missing content  
 
-### 📱 [CITRA | Nintendo 3DS](./category/citra--nintendo-3ds)  
+### 📱 CITRA | Nintendo 3DS
 - Getting started with your 3DS  
 - Playing DS games on 3DS: Everything you need to know  
 - Resolving common issues  
 - Information on databases and useful files  
 
-### 🎲 [NITRO | Nintendo DS](./category/nitro--nintendo-ds)  
+### 🎲 NITRO | Nintendo DS
 - Setting up your DS  
 - Tips for solving problems  
 - Databases and useful files  
