@@ -76,6 +76,10 @@ Voici la liste des consoles rétro disponibles sur Ghost eShop Retro NX :
    ```
 2. Une fois configurée, redémarrez Tinfoil, puis vous verrez les jeux rétro dans l'onglet **New Games**.  
 
+3. Voici un aperçu de la configuration dans Tinfoil :  
+
+![Ghost eShop RETRO NX Config](/img/nx/nxretro-tinfoil.jpg)
+
 ---  
 
 ## 🔧 Créez vos propres forwarders  
