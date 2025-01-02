@@ -16,9 +16,6 @@ and help through donations give us the possibility to upgrade our Servers,
 serve you better Content Quality and creating new Future Projects for you.
 
 Please dont hesitate to tell us your Opinion about the entire Project and
-even about the Team including myself. Via Telegram or through Guilded.
-
-
-Links: [Telegram](https://t.me/ghosteshop) and [Guilded](https://www.guilded.gg/Ghost-eShop-NX)
+even about the Team including myself via our [Social Network](https://social.ghostland.at).
 
 At the end .. Thank you very much for all your Support and the helping Hand!
