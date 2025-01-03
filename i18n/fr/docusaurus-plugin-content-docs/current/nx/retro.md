@@ -76,9 +76,17 @@ Voici la liste des consoles rétro disponibles sur Ghost eShop Retro NX :
 
 3. Voici un aperçu de la configuration dans Tinfoil :  
 
-![Ghost eShop RETRO NX Config](/img/nx/nxretro-tinfoil.jpg)
+<img src="/img/nx/nxretro-tinfoil.jpg" height="350" />
 
----  
+4. **Préparation de la carte SD :**  
+- Téléchargez le pack suivant : [RetroArch.7z](https://1fichier.com/?5p8brz3f5f6bwwt9kkep).  
+- Extrayez son contenu directement à la racine de votre carte SD (**SD:/**).  
+- Une fois terminé, redémarrez votre console.  
+
+> ℹ️ **Info :** Ce pack est indispensable pour assurer le bon fonctionnement des jeux rétro disponibles sur Ghost eShop Retro NX.  
+> Sans celui-ci, vous pourriez potentiellement rencontrer des problèmes en essayant de lancer certains jeux rétro, voire la totalité des jeux.
+
+---
 
 ## 🔧 Créez vos propres forwarders  
 
