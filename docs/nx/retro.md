@@ -28,24 +28,25 @@ Here is the list of retro consoles available on Ghost eShop Retro NX:
 - 💾 Commodore 64 (c64)  
 
 ### **NEC**  
-- 🎮 TurboGrafx-16 (tg16)  
+- 🎮 TurboGrafx-16 / PC Engine (tg16)  
 
 ### **Nintendo**  
-- 🎮 Nintendo 3DS (3ds)  
+- 🎮 Nintendo Entertainment System (nes)  
+- 🎮 Super Nintendo Entertainment System (snes)  
 - 🎮 Nintendo 64 (n64)  
 - 🎮 Nintendo DS (nds)  
-- 🎮 Nintendo Entertainment System (nes)  
+- 🎮 Nintendo 3DS (3ds)  
 - 🎮 Game Boy (gb)  
-- 🎮 Game Boy Advance (gba)  
 - 🎮 Game Boy Color (gbc)  
+- 🎮 Game Boy Advance (gba)  
 
 ### **Sega**  
-- 🎮 Sega 32x (32x)  
-- 💿 Sega CD (scd)  
-- 💿 Sega Dreamcast (sdc)  
-- 🎮 Sega Game Gear (gg)  
-- 🎮 Sega Genesis (sg)  
 - 🎮 Sega Master System (sms)  
+- 🎮 Sega Genesis (sg)  
+   - 💿 Sega CD (scd)  
+   - 🎮 Sega 32x (32x)  
+- 🎮 Sega Game Gear (gg)  
+- 💿 Sega Dreamcast (sdc)  
 
 ### **SNK**  
 - 🎮 Neo Geo (ngeo)  
@@ -53,10 +54,7 @@ Here is the list of retro consoles available on Ghost eShop Retro NX:
 ### **Sony PlayStation**  
 - 🎮 PlayStation (psx)  
 - 🎮 PlayStation Mini (pspm)  
-- 🎮 PlayStation Portable (psp)  
-
-### **Super Nintendo Entertainment System (SNES)**  
-- 🎮 Super Nintendo (snes)  
+- 🎮 PlayStation Portable (psp)   
 
 ---  
 
