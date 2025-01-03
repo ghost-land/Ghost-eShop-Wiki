@@ -52,7 +52,7 @@ Ce guide vous explique comment installer et configurer **Tinfoil** pour accéder
    ```
 
 5. Une fois configurée, sauvegardez et redémarrez Tinfoil.  
-6. Les jeux apparaîtront dans l'onglet "New Games", les DLCs dans l'onglet "New Updates", etc.  
+6. Les jeux apparaîtront dans l'onglet "New Games", les DLCs dans l'onglet "New DLCs", etc.  
 
 ---
 

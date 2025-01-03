@@ -52,7 +52,7 @@ This guide explains how to install and configure **Tinfoil** to access Ghost eSh
    ```
 
 5. Once configured, save and restart Tinfoil.  
-6. Games will appear in the "New Games" tab, DLCs in the "New Updates" tab, etc.  
+6. Games will appear in the "New Games" tab, DLCs in the "New DLCs" tab, etc.  
 
 ---
 
