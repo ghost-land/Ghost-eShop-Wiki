@@ -3,135 +3,138 @@ sidebar_position: 3
 ---
 
 # Bekannte Probleme
-Du hast Probleme mit einem Ghost eShop NX Service? Finde deine Antworten hier!
+Du hast Schwierigkeiten mit unserem Ghost eShop Pro Service? Finde deine Lösung dazu hier!
 
----
+### 1
 
-## Tinfoil
+## 🚫 Fehler: Unknown Frame descriptor
+ℹ️ **Grund**: Beschädigtes Tinfoil
+✅ **Lösung**: Lösche den Forwarder auf dem Hauptbildschirm, lösche den Ordner aus diesem Verzeichnis: **SD:/switch/tinfoil**, verwende "Cleanup Orphaned Files" mit **DBI -> TOOLS** und installiere Tinfoil neu.
+‎
+--
 
-### ❌ Fehler: Tinfoil Network Error 6
-ℹ️ **Grund:** Tippfehler in der Konfiguration oder WLAN VerbindungsproblemeTypo in configuration or Wi-Fi connection issue.  
-✅ **Lösung:**  
-- Überprüfe und korrigiere die Quellenkonfiguration.  
-- Prüfe deine WLAN Verbindung.
+### 2
 
----
+## 🚫 Fehler: Game Icon ist leer und ein sich bewegender Kreis ist darin zu sehen
+ℹ️ **Grund**: Falsche Firmware
+✅ **Lösung**: Update zu der benötigten Firmware
+‎
+--
 
-### ❌ Fehler: Tinfoil Network Error 7
-ℹ️ **Grund:** Dein Internetanbieter (ISP) hat unseren Service gesperrt.  
-✅ **Lösung:** Ändere deine DNS Einstellung deiner Nintendo Switch Konsole:  
-- Primäre DNS: `1.1.1.1`  
-- Sekundäre DNS: `1.0.0.1`
+### 3
 
-ℹ️ Wenn es dennoch nicht funktioniert, wirst du evtl. einen VPN Zugang für deinen Router einrichten müssen.
+## 🚫 Fehler: Retro Shop Spiele starten nicht
+ℹ️ **Grund 1**: Falsche Firmware, die Forwarder sind nicht kompatibel zu aktuellsten Firmware.
+ℹ️ **Grund 2**: Du hast RetroArch nicht installiert
+ℹ️ **Grund 3**: Fehlende RetroArch Cores
+✅ **Lösung 1**: Downgrade zu einer vorherigen Firmware, mache dies nur wenn du emuMMC/NAND benutzt.
+Oder importiere die Rom manuell in deine RetroArch Bibliothek.
+✅ **Lösung 2**: Installieren RetroArch vom Homebrew Store aus.
+✅ **Lösung 3**: Bitte lade die nötigen Cores innerhalb von RetroArch herunter.
+‎
+--
 
----
+### 4
 
-### ❌ Fehler: Tinfoil Network Error 28
-ℹ️ **Grund:** Langsame Verbindung zwischen unserem Shop und deinem Netzwerk.  
-✅ **Lösung:** Versuche es später noch einmal.
+## 🚫 Fehler: Tinfoil Console zeigt "Network Error 28" an
+ℹ️ **Grund 1**: Dein WLAN ist nicht eingeschaltet | Kein LAN Kabel angeschlossen
+ℹ️ **Grund 2**: Falsche Quellenkonfiguration
+ℹ️ **Grund 3**: Unser Shop ist offline
+ℹ️ **Grund 4**: Schlechte Verbindung deinerseits zum Shop oder unsererseits zu dir.
+✅ **Lösung 1**: Schalte dein WLAN ein oder verbinde deine Konsole mit dem LAN Netzwerk.
+✅ **Lösung 2**: Prüfe die Quellenkonfiguration noch mals ganz genau.
+✅ **Lösung 3**: Warte bis der Shop wieder online ist.
+✅ **Lösung 4**: Versuche es später noch einmal
+‎
+‎--
 
----
+### 5
 
-### ❌ Fehler: Unknown Frame descriptor
-ℹ️ **Grund:** Dein Tinfoil ist beschädigt.  
-✅ **Lösung:**  
-1. Lösche die Tinfoil Verknüpfung auf deinem Hauptbildschirm.  
-2. Lösche folgenden Ordner `SD:/switch/tinfoil`.  
-3. Räume ungenutzte Dateien mittels **DBI** -> **TOOLS** -> **Cleanup orphaned files** auf.  
-4. Installiere Tinfoil erneut.
+## 🚫 Fehler: Tinfoil Console zeigt "Network Error 7" an
+ℹ️ **Grund**: Dein Provider/Internetanbieter blockiert uns.
+✅ **Lösung**: Nutze eine VPN Verbindung für deinen Router.
+‎
+--
 
----
+### 6
 
-### ❌ Fehler: Ghost eShop taucht nicht in Tinfoil auf / Tinfoil zeigt Network Error 28
+## 🚫 Fehler: Ich kann nicht nach Release Datum sortieren | Mir werden keine Game Icons angzeigt
+ℹ️ **Grund**: Schlchte Datenbank von Tinfoil selbst.
+✅ **Lösung**: Lösche den gesamten "**DB**" Ordner aus dem "***SD:/switch/tinfoil***" Verzeichnis und starte Tinfoil neu.
+ℹ️ **Notiz**: Wir haben unsere eigene Datenbank, genannt: "**NX Custom DB**" (**Du kannst sie mit den Angaben unten manuell einfügen**)
+**Info**: 
+- *Protocol*: https
+- *Host*: nx-meta.nlib.cc
+- *Path*: /
+- *Title*: NX Custom DB
+‎
+--
 
-ℹ️ **Mögliche Ursachen:**  
-1. WLAN ist nicht aktiviert oder konfiguriert.  
-2. Falsche Tinfoil Quellen Einstellung.  
-3. Der Shop is temporär Offline (Prüfe es hier [here](https://status.ghostland.at/) folgende Services müssen aktiv sein: **NX - Main Network**, **NX - PUBLIC Shop**, **NX - Splitted Content**, **NX - Tinfoil Index PUBLIC Shop**).  
+### 7
 
-✅ **Lösung:**  
-- **Aktiviere WLAN:** Prüfe deine Netwerkverbindung.  
-- **Korrigiere Quellen:** Überprüfe erneut die Tinfoil Einstellungen der Quellen.  
-- **Prüfe den Shop Status:** Besuche die Status Seite und warte wenn ein Service Offline gegangen ist.
+## 🚫 Fehler: Ich finde kein Spiel
+ℹ️ **Grund**: Vermutlich dein geringes Wissen
+✅ **Lösung**: Markiere "**New Games**" oder "**XCI**" und drücke die "**+**" Taste, schreibe einfach ein einfaches Wort, anstatt des gesamten Spieltitels.
+‎**Beispiel**: *Mario* | *Zelda* | *Pokemon*
+--
 
----
+### 8
 
-### ❌ Fehler: Sortierung nach Erscheinungsdatum in Tinfoil nicht möglich
+## 🚫 Fehler: Ich finde ein Spiel nicht mittels Titel
+ℹ️ **Grund**: Das Spiel hat einen asiatischen Titel
+✅ **Lösung**: Gehe dazu auf **New Games/XCI** und drücke die "**-**" Taste um die Ansicht zu wechseln.
 
-ℹ️ **Grund:** Die Tinfoil Datenbank is beschädigt or nicht korrekt.  
-✅ **Lösung:** Lösche alle Dateien mit der Endung `.json` im `DB` Ordner von Tinfil, starte Tinfoil neu damit eine frische Datenbank heruntergeladen wird.
+--
 
----
+### 9
 
-### ❌ Fehler: "New Games" / "XCI" Menüpunkt erscheint nicht
-ℹ️ **Grund:** Falsche Shop Konfiguration / WLAN ist Aus / DNS Konfiguationsprobleme  
-✅ **Lösung:**  
-- Vergleiche deine Shop Einstellung mit einer korrekten (Details verfügbar [here](https://nx.ghostland.at)).  
-- Schalte dein WLAN ein.  
-- Tausche dein Router aus, falls nötig.  
-- Stelle DNS auf Automatic um.
+## 🚫 Fehler: "**Unsigned Code/Signature**"
+ℹ️ **Grund**: Manche Dumps haben ungewöhnliche Tags, aber keine Sorge unser Shop ist sicher, wir prüfen vorher alle Inhalte.
+✅ **Lösung**: Gehe dazu in die Tinfoil Einstellungen, aktiviere "**Unsigned Signature**" und gebe folgenden Code ein:
 
----
-
-### ❌ Fehler: Ich finde kein Spiel
-ℹ️ **Grund:** Falscher Suchbegriff oder das Spiel hat asiatische Buchstaben im Titel.  
-✅ **Lösung:**  
-- Gehe zu "New games" oder "XCI", drücke den "+" Knopf und suche mittels eines einfach Schlüsselwortes, anstatt den kompletten Titel des Spiels einzugeben.  
-- Wenn das Spiel einen Titel mit asiatischen Buchstaben hat, markiere "New Games" oder "XCI" und drücke den "-" (Minus) Knopf um mittels Bildern nach dem Spiel zu suchen.
-
----
-
-### ❌ Fehler: Unsigned Code / Invalid Signature
-ℹ️ **Grund:** Manche Kopien haben eigene Signaturen enthalten, was aber kein Problem für die Sicherheit des Shops oder für dich darstellt.  
-✅ **Lösung:** Aktiviere die **Unsigned Signature** Option in den Tinfoil Einstellungen.  
-(Du wirst diesen Konami Code benötigen, um diese Option einzuschalten)
 > ![konami code](/img/nx/konami.jpg)
 
----
+--
 
-### ❌ Fehler: Der "Recommended" Menüpunkt wird nicht angezeigt
+### 10
 
-ℹ️ **Mögliche Ursachen:**  
-1. **Die Tinfoil Webseite ist offline ([tinfoil.io](https://tinfoil.io))**  
-2. **Dein Provider hat die Tinfoil Webseite gesperrt.**
+## 🚫 Fehler: [Retro Roms] "Unable to start Software"
+ℹ️ **Grund**: Du hast die falsche Firmware.
+✅ **Lösung**: installiere die benötigte Firmware.
 
-✅ **Lösungen:**  
-- **Lösung 1:** Warte bis die Seite wieder online geht.  
-- **Lösung 2:** Sollte die Webseite gesperrt worden sein, bitte ändere deine DNS Einstellungen mit folgenden Werten:  
-  - **Primäre DNS:** `1.1.1.1`  
-  - **Sekundäre DNS:** `1.0.0.1`  
-  Oder nutze einen VPN Zugang.
+--
 
----
+### 11
 
-## Nintendo Switch Betriebssystem (HOS = Horizon OS)
+## 🚫 Fehler: Dein Internetanbieter blockiert unseren Shop
+ℹ️ **Grund**: Weil ist so
+✅ **Lösung**: Ändere deine DNS Einstellungen deiner Internetverbindung innerhalb der Switch Einstellungen zu:
+**1.1.1.1**
+**1.0.0.1**
+Oder nutze eine VPN Verbindung.
 
-### ❌ Fehler: Spielsymbol ist nicht zusehen und ein sich drehender Ring dreht sich.
+--
 
-ℹ️ **Grund:** Die Konsolen Firmware ist nicht kompatibel.  
-✅ **Lösung:** Update deine Konsole auf die benötigte Firmware **Stelle sicher, dass die aktuellste Firmware kompatibel ist mit deiner CFW (Atmosphere)** bevor du weiter vorgehst, um Probleme zu vermeiden.
+### 12
 
----
+## 🚫 Fehler: Tinfoil Console zeigt "Network Error 6" an
+ℹ️ **Grund 1**: Falsche Quellenkonfiguration/WLAN ist aus/WLAN Einstellungen falsch/DNS falsch
+ℹ️ **Grund 2**: Du hast das Pro Dashboard Passwort verwendet, anstatt das separate Tinfoil Passwort.
+✅ **Lösung 1**: Vergleiche deine Quellenkonfirguration mit den unserer vorgegebenen/Schalte dein WLAN ein/Vielleicht ein neuer Router?/Stelle DNS auf AUTO.
+✅ **Lösung 2**: Logge dich in dein [Pro Dashboard](https://pro.nlib.cc) ein und erstelle ein separates Tinfoil Passwort.
 
-### ❌ Fehler: Kann Spiele vom Retro Shop nicht starten
+--
 
-ℹ️ **Möglioche Ursachen:**  
-1. **Inkompatible Firmware:** Forwarders funktionieren evtl. nicht mit neueren Firmware Versionen. **Momentan sind sie getestet mit der Firmware 19.0.1 und CFW Atmosphere 1.8.0.**  
-2. **RetroArch ist nicht installiert.**  
-3. **RetroArch Core fehlt.**
+### 13
 
-✅ **Lösungen:**  
-- **Lösung 1:**  
-  - Wenn du einen emuNAND nutzt, downgrade um eine Version runter.  
-  - Alternativ, importiere die ROM direkt auf die SD Karte um sie über RetroArch zu starten.  
-- **Lösung 2:** Installiere RetroArch mittels Homebrew Shop. (Jedoch könnten da eine Cores drin sein, die evtl. gar nicht möchtest)  
-- **Lösung 3:** Lade die gewünschten Core direkt über RetroArch herunter.
+## 🚫 Fehler: Tinfoil Console zeigt "Network Error 35" an (SSL Handshake)
+ℹ️ **Grund**: Deine System Zeit ist nicht synchron zu deiner Ortszeit.
+✅ **Lösung**: Installiere die Homebrew App "**DBI**" wähle "**Tools**" um die Zeit mit deiner Ortszeit zu synchronisieren.
 
----
+--
 
-### ❌ Fehler: Dein Internet Provider (ISP) hat unseren Shop für dich gesperrt
-ℹ️ **Grund:** Dein Internet Provider hat unseren Shop gesperrt.  
-✅ **Lösung:** Ändere die DNS Einstellungen deiner Switch auf folgende Werte ab:  
-- Primäre DNS: `1.1.1.1`  
-- Sekundäre DNS: `1.0.0.1`
+### 14
+
+## 🚫 Fehler: Fehlerhafte Daten
+ℹ️ **Grund**: Deine SD Karte hat vermutlich beschädigte Sektoren oder dein Tinfoil ist fehlerhaft.
+✅ **Lösung**: Lösche Tinfoil vollständig und installieren es wieder neu (**App auf dem Hauptbildschirm und den Ordner in SD:/switch/**) | Prüfe die Vitalität deiner SD Karte in Hekate mit "**Console Info**" -> "**microSD**" -> in der rechten unteren Ecke des Bildschirmes.
