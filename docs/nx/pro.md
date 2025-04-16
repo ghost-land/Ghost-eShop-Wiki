@@ -33,7 +33,7 @@ Choose your desired Method to donate (**PayPal | Crypto | Nintendo eShop Card**)
 
 > **Info 2**: You will receive a Mail after Account Activation to your Donation eMail Address. (**It can take up to 24h+, because we do it manually**)  
 
-> **Info 3.1**: With Crypto (**ETH = Ethereum**) you have to send a Message immediatly (**Because Change of Course**) to me via **[Telegram Ray](https://t.me/RaynorBlackwood)** | **[Discord Ray](https://discordapp.com/users/172794851912318977)** | **[Reddit Ray](https://www.reddit.com/user/Either-Assumption382/)** or via **[Mail Ray](/server/01JFJ5BPENKZCNZ3GZC9H2P6T3/channel/adminghostlandat)** (**Please send the Transaction ID too**).  
+> **Info 3.1**: With Crypto (**ETH = Ethereum**) you have to send a Message immediatly (**Because Change of Course**) to me via **[Telegram Ray](https://t.me/RaynorBlackwood)** | **[Discord Ray](https://discordapp.com/users/172794851912318977)** | **[Reddit Ray](https://www.reddit.com/user/Either-Assumption382/)** or via **[Mail Ray](mailto:admin@ghostland.at)** (**Please send the Transaction ID too**).  
 
 > **Info 3.2**: Same if you bought eShop Card to donate, doesnt matter if its digital or physical Card. (**Please send the following below**).  
 
