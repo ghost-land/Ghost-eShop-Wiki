@@ -3,8 +3,9 @@ sidebar_position: 3
 ---
 
 # Bekannte Probleme
-Du hast Schwierigkeiten mit unserem Ghost eShop Pro Service? Finde deine Lösung dazu hier!
+Schwierigkeiten und wie du sie löst
 
+---
 
 ### 🚫 Fehler: Unknown Frame descriptor
 ℹ️ **Grund**: Beschädigtes Tinfoil  
@@ -114,6 +115,5 @@ _**Beispiel**_: *Mario* | *Zelda* | *Pokemon*
 ---
 
 ### 🚫 Fehler: Fehlerhafte Daten
-ℹ️ **Grund**: Deine SD Karte hat vermutlich beschädigte Sektoren oder dein Tinfoil ist fehlerhaft.  
-✅ **Lösung**: Lösche Tinfoil vollständig und installiere es wieder neu (**App auf dem Hauptbildschirm und den Ordner in SD:/switch/**)  
-Prüfe die Vitalität deiner SD Karte in Hekate mit "**Console Info**" -> "**microSD**" -> in der rechten unteren Ecke des Bildschirmes.
+ℹ️ **Grund**: Deine Nintendo Switch beinhaltet beschädigte Dateien.
+✅ **Lösung**: Bitte starte **DBI** und gehe auf **TOOLS -> Cleanup Orphaned Files**

@@ -3,19 +3,19 @@ sidebar_position: 5
 ---
 
 # Retro Inhalte  
-Du suchst nach Informationen über den Retro NX Shop?  
+Klassiker aus damaliger Zeit!  
 
 ---  
 
-Willkommenm zur **Retro Content** Sektion von Ghost eShop NX! 🎮  
+## Willkommen zur ***Retro Inhalte*** Sektion von Ghost eShop NX! 🎮  
 
-Diese Sektion is alleinstehend für Retro Spiele Enthusiasten. Ghost eShop Retro NX bietet eine aussergewöhnliche Sammlung an von über 10.000 Spiele ikonischer Konsolen. Du wirst klassische Titel für Plattformen wie z.B. Nintendo DS, Sega Genesis, Sony PlayStation und viele mehr finden.  
+Diese Sektion ist alleinstehend für Retro Spiele Enthusiasten. Ghost eShop Retro NX bietet eine aussergewöhnliche Sammlung an von über 10.000 Spiele ikonischer Konsolen. Du wirst klassische Titel für Plattformen wie z.B. Nintendo DS, Sega Genesis, Sony PlayStation und viele mehr finden.  
 
-> ℹ️ **Information:** Ghost eShop RETRO NX wird automatisch zu deinen Quellen in Tinfoil hinzugefügt, wenn du dich einmal mit dem PUBLIC|FREE Shop verbunden hast.Keine weitere Konfiguation erforderlich.  
+> ℹ️ **Information:** Ghost eShop RETRO NX wird automatisch zu deinen Quellen in Tinfoil hinzugefügt, wenn du dich einmal mit dem PUBLIC|FREE Shop verbunden hast.Keine weitere Konfiguration erforderlich.  
 
 ---  
 
-## 📂 Verfügbare Plattformen  
+## 📂 *Verfügbare Plattformen*  
 
 Hier ist eine Liste der verfügbaren Retro Konsolen auf Ghost eShop Retro NX:  
 
@@ -58,51 +58,49 @@ Hier ist eine Liste der verfügbaren Retro Konsolen auf Ghost eShop Retro NX:
 
 ---  
 
-## 🌐 Zugang zu Ghost eShop Retro NX  
+## 🌐 *Zugang zu Ghost eShop Retro NX*  
 
-1. In Tinfoil, richte eine neue Quelle ein mit folgenden Details:  
+#### 1. In Tinfoil, richte eine neue Quelle ein mit folgenden Details:  
 
-   ```
-   Protocol: https
-   Host: nx-retro.ghostland.at
-   Path: /
-   Username: [Leer lassen]
-   Password: [Leer lassen]
-   Title: Ghost eShop RETRO (Kannst du benennen wie du willst)
-   ```
-2. Einmal eingerichtet, starte Tinfoil neu und du wirst Retro Spiele im Menüpunkt **New Games** finden. 
+- Protocol: https- Host: nx-retro.ghostland.at
+- Path: /
+- Username: [Leer lassen]
+- Password: [Leer lassen]
+- Title: Ghost eShop RETRO (**Kannst du benennen wie du willst**)
 
-3. Hier hast du einen Überblick über die Konfiguration in Tinfoil :  
+#### 2. Einmal eingerichtet, starte Tinfoil neu und du wirst Retro Spiele im Menüpunkt **New Games** finden. 
+
+#### 3. Hier hast du einen Überblick über die Konfiguration in Tinfoil :  
 
 <img src="/img/nx/nxretro-tinfoil.jpg" height="350" />
 
-4. **Vorbereiten deiner SD Karte:**  
-- Lade dir folgendes Paket herunter: [RetroArch.7z](https://1fichier.com/?5p8brz3f5f6bwwt9kkep).  
+#### 4. **Vorbereiten deiner SD Karte:**  
+- Lade dir folgendes Paket herunter: **[RetroArch](https://1fichier.com/?5p8brz3f5f6bwwt9kkep)**.  
 - Entpacke diesen Inhalt direkt auf das Stammverzeichnis deiner SD Karte (**SD:/**).  
 - Einmal fertiggestellt, starte deine Nintendo Switch Konsole neu.  
 
-> ℹ️ **Information:** Dieses Paket is essentiell um sicherzugehen, dass die grundlegende Funktionalität der Retro Spiele aus unserem Ghost eShop Retro NX gegeben ist.  
-> Ohne dieses, könntest du auf Probleme stoßen, wenn du versuchst Spiele aus unserem Retro Shop zu spielen.
+> ℹ️ **Information:** Dieses Paket is essentiell um sicherstellen, dass die grundlegende Funktionalität der Retro Spiele aus unserem Ghost eShop Retro NX gegeben ist.  
+Ohne dieses, könntest du auf Probleme stoßen, wenn du versuchst Spiele aus unserem Retro Shop zu spielen.
 
 ---  
 
-## 🔧 Erstelle deinen eigenen Forwarder (Das Symbol auf deinem Switch Hauptbildschrim)  
+## 🔧 *Erstelle deinen eigenen Forwarder* (**Das Symbol auf deinem Switch Hauptbildschrim**)  
 
 Ghost eShop Retro NX nutzt ein **Forwarder** System. Wenn du dein eigenen Forwarder erstellen möchtest oder neugierig bist wie das so funtkioniert,dann nutze folgendes Open-Source Tool:  
 
-[NX Forwarder Generator Source Code](https://github.com/ghost-land/NX-Forwarder-Generator)  
+**[NX Forwarder Generator Source Code](https://github.com/ghost-land/NX-Forwarder-Generator)**  
 
 ---  
 
-## 🛠 Technische Details  
+## 🛠 *Technische Details*  
 
-Ghost eShop RETRO NX basiert auf unserer **Tinfoil v2** Infrastruktur, ein eigenes Server System zum verwalten von Nintendo Switch Inhalten. Tinfoil v2 unterstützt **Direct URL** Dateien anstatt in Blöcke geteilte Dateien zu nutzen, wie es im v3 System gemacht wurde. Diese Einrichtung stellt Basis Leistungen und ausreichend Kompatibität zur Verfügung mit dem Tinfoil Client.  
+Ghost eShop RETRO NX basiert auf unserer **Tinfoil v2** Infrastruktur, ein eigenes Server System zum verwalten von Nintendo Switch Inhalten. Tinfoil v2 unterstützt **Direct URL** Dateien anstatt in Blöcke geteilte Dateien zu nutzen, wie es im v3 System gemacht wurde. Diese Einrichtung stellt Basis Leistungen und ausreichend Kompatibilität zur Verfügung mit dem Tinfoil Client.  
 
 Der Quellcode für unseren Tinfoil v2 Server ist hier verfügbar als Open-Source:  
-[NX-Server v2 Source Code](https://github.com/ghost-land/NX-Server)  
+**[NX-Server v2 Source Code](https://github.com/ghost-land/NX-Server)**  
 
-Diese Archtitektur stellt eine sanfte und zuverlässige Erfahrung für alle Ghost eShop Retro NX Nutzer sicher.  
+Diese Architektur stellt eine sanfte und zuverlässige Erfahrung für alle Ghost eShop Retro NX Nutzer sicher.  
 
 ---  
 
-Habe Spaß mit dem Ghost eShop Retro NX und genieße deine lieblings Retro Spiele! 🚀  
+*Habe Spaß mit dem Ghost eShop Retro NX und genieße deine lieblings Retro Spiele!* 🚀  
