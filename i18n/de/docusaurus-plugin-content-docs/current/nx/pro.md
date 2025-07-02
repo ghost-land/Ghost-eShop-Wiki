@@ -23,7 +23,7 @@ hier zeigen wir dir die wie du unseren Pro Service in Anspruch zu nehmen kannst.
 
 - **Email:** [*Deine e-Mail Adresse*]  
 
-- **Password:** [*Dein Passwort*] (Das Passwort muss kleingeschrieben sein, darf nur Buchstaben und Zahlen enthalten, mindestens 8 Zeichen lang)
+- **Password:** [*Dein Passwort*] (Das Passwort muss kleingeschrieben sein, darf nur Buchstaben und Zahlen enthalten und mindestens 8 Zeichen lang)
 
 ---
 
@@ -32,11 +32,7 @@ hier zeigen wir dir die wie du unseren Pro Service in Anspruch zu nehmen kannst.
 **Gehe auf:** **[Spende/Donation](https://donate.ghostland.at/)**
 Wähle deine gewünschte Methode zum Spenden aus  
 
-**Info 1**: Bitte gebe bei der Spende mittels bei PayPal bitte im Kommentarfeld deinen Nutzernamen an oder aber habe für den Pro Account und PayPal die gleiche e-Mail Adresse  
-
-**Info 2**: Du wirst nach Aktivierung deines Accounts eine E-Mail auf der Adresse bekommen, mit der du auch gespendet hast. (**Es kann bis zu 72h dauern, da dies manuell geschieht**)  
-
-**Info 3**: Bei Crypto (**ETH = Ethereum**) musst du dich umgehend bei mir (**Ray**) via **[Telegram](https://t.me/RaynorBlackwood)** oder **[Discord](https://discordapp.com/users/172794851912318977)** melden (**Bitte gebe auch die Transaktions ID mit an**), gleiches gilt für die eShop Card. (**Bitte ein Screenshot/Foto der Karte und den Code in Textform**).
+**Info 1**: Es ist nicht mehr nötig unser Team zu kontaktieren, wenn es darum geht Unterstützung bei deiner Spende zu erhalten um deinen Account zu aktivieren, wir prüfen täglich auf neu eingegangene Spenden, du kannst jederzeit den Status deiner Spende auf der oben genannten Webseite prüfen, bitte habt Geduld, es braucht nach wie vor bis zu 72h für die Bearbeitung.   
 
 ---
 
@@ -55,4 +51,4 @@ Wähle deine gewünschte Methode zum Spenden aus
 
 ---
 
-**Tipp**: Solltest du Probleme haben unseren Shop nutzen zu können, dann bitte wende dich zuerst an unseren technischen Support auf unserem **[Revolt Server](https://rvlt.gg/3GzQrQvg/)**!
+**Tipp**: Solltest du Probleme haben unseren Shop nutzen zu können, dann bitte wende dich zuerst an unseren technischen Support auf unserem **[Revolt Server](https://rvlt.gg/3GzQrQvg/)** oder erstelle ein Ticket mittels deines Pro Accounts auf der Pro Account Panel Seite: **[Pro Account Panel](https://pro.nlib.cc/)**
