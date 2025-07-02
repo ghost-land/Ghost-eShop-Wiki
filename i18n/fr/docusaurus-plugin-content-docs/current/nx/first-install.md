@@ -42,14 +42,12 @@ Ce guide vous explique comment installer et configurer **Tinfoil** pour accéder
 3. Appuyez sur le bouton **-** (Moins) pour ajouter une nouvelle source.  
 4. Configurez la source avec les informations suivantes :  
 
-   ```
-   Protocol: https [Assurez-vous de sélectionner "https" et non "http"]  
-   Host: nx.ghostland.at  
-   Path: /  
-   Username: [laissez vide]  
-   Password: [laissez vide]  
-   Title: Ghost eShop PUBLIC  
-   ```
+- **Protocol :** *https* [**Assurez-vous de sélectionner "https" et non "http"**]  
+- **Host :** *nx.ghostland.at*  
+- **Path :** */*  
+- **Username :** [**laissez vide**]  
+- **Password :** [**laissez vide**]  
+- **Title :** *Ghost eShop NX Public*
 
 5. Une fois configurée, sauvegardez et redémarrez Tinfoil.  
 6. Les jeux apparaîtront dans l'onglet "New Games", les DLCs dans l'onglet "New DLCs", etc.  

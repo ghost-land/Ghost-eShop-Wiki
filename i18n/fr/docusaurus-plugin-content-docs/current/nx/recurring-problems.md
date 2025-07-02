@@ -135,3 +135,29 @@ Un problème avec un service Ghost eShop NX ? Trouvez des solutions ici !
 ✅ **Solution :** Changez les paramètres DNS de votre Switch :  
 - DNS Primaire : `1.1.1.1`  
 - DNS Secondaire : `1.0.0.1`
+
+---
+
+### ❌ Erreur : Tinfoil Network Error 35 (SSL Handshake)
+ℹ️ **Raison :** L'horloge système n'est pas synchronisée.  
+✅ **Solution :** Installez le Homebrew "**DBI**" et utilisez "**Tools**" pour resynchroniser NTP.
+
+---
+
+### ❌ Erreur : Données corrompues
+ℹ️ **Raison :** Votre carte SD a des secteurs endommagés ou Tinfoil est corrompu.  
+✅ **Solution :** Supprimez complètement Tinfoil et réinstallez-le (**Application sur l'écran d'accueil et dossier dans SD:/switch/**) | Vérifiez la carte SD dans Hekate avec "**Console Info**" -> "**microSD**" -> en bas à droite.
+
+---
+
+### ❌ Erreur : Impossible de trier par date de sortie dans Tinfoil
+ℹ️ **Raison :** Mauvaise base de données de Tinfoil.  
+✅ **Solution :** Supprimez le dossier DB entier de Tinfoil et redémarrez Tinfoil.  
+ℹ️ **Note :** Nous avons notre propre base de données appelée "**NX Custom DB**" (**Seulement lors de l'ajout du Free Shop**)  
+
+> ***Info*** : Ajoutez les détails suivants à une nouvelle Source
+
+- **Protocol :** *https*
+- **Host :** *nx-meta.nlib.cc*
+- **Path :** */*
+- **Title :** *NX Custom DB*
