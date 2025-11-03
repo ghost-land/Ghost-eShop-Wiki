@@ -114,7 +114,7 @@ Bei der ersten Verbindung mit dem Entwicklungsserver können die auf Ihrer Konso
 
 Um Ihre Spiele wieder erscheinen zu lassen, können Sie [faketik](https://github.com/ihaveamac/faketik) verwenden:
 
-1. Laden Sie `faketik.3dsx` von [/citra/3dsx/faketik.3dsx](/citra/3dsx/faketik.3dsx) herunter
+1. Laden Sie [faketik.3dsx](/3dsx/faketik.3dsx) herunter
 2. Platzieren Sie die Datei in `sdmc:/3ds/faketik.3dsx` auf Ihrer SD-Karte
 3. Starten Sie faketik über den Homebrew Launcher
 4. Befolgen Sie die Anweisungen auf dem Bildschirm, um die Tickets neu zu generieren

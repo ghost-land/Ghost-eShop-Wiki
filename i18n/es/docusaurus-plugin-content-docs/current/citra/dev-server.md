@@ -114,7 +114,7 @@ En la primera conexión al servidor de desarrollo, los juegos instalados en su c
 
 Para hacer reaparecer sus juegos, puede usar [faketik](https://github.com/ihaveamac/faketik):
 
-1. Descargue `faketik.3dsx` desde [/citra/3dsx/faketik.3dsx](/citra/3dsx/faketik.3dsx)
+1. Descargue [faketik.3dsx](/3dsx/faketik.3dsx)
 2. Coloque el archivo en `sdmc:/3ds/faketik.3dsx` en su tarjeta SD
 3. Lance faketik desde el Homebrew Launcher
 4. Siga las instrucciones en pantalla para regenerar los tickets
