@@ -167,12 +167,28 @@ Der Nintendo eShop arbeitet hauptsächlich mit 5 Diensten:
 
 Über IAS in der Datenbank gespeicherte Informationen:
 
-- `consoleid`: DeviceId
-- `devicetoken`: Authentifizierungstoken
-- `uniquekey`: Eindeutiger Schlüssel
-- `country`, `region`, `language`: Standort
-- `balance`: Kontostand
-- `is_terminated`: Kontostatus
+- **`consoleid` (DeviceId)**: Wird verwendet, um eine 3DS-Konsole eindeutig zu identifizieren und ein Konto auf dem Server zu erstellen/zu verknüpfen. Ermöglicht beispielsweise den Zugriff auf Ihren Kaufverlauf und erworbene Titel.
+- **`devicetoken` (token)**: Wird zur Authentifizierung von Anfragen verwendet. Es ist ein zufällig generiertes (21 Zeichen) eindeutiges Token pro Konsole, das für ECS/IAS-Aufrufe erforderlich ist.
+- **`uniquekey` (key)**: Wird derzeit nicht verwendet, wird aber später verwendet, um eine Konsole mit einem Ghost eShop-Konto in zukünftigen Updates zu verknüpfen. Dieser Schlüssel stammt nicht von Nintendo; wir generieren ihn selbst.
+- **`country`, `region`, `language`**: Werden verwendet, um die Katalogregion, Preise und Sprachen zu verwalten sowie die Ihnen gesendeten Ergebnisse zu personalisieren.
+- **`balance`**: Verwendbares Guthaben, das bei Käufen abgezogen und mit Promo-Codes gutgeschrieben wird.
+- **`is_terminated`**: Kontostatus (aktiv/gesperrt).
+
+### Spielformat
+
+:::info CDN-Format
+Die Spiele im eShop sind **nicht** in den Formaten CIA, 3DSX oder 3DS. Der eShop verwendet das **CDN-Format**.
+:::
+
+Jedes Spiel besteht auf der CDN-Seite aus:
+
+- **Eine oder mehrere `.app`-Dateien**: Enthalten den Spielinhalt, das Handbuch, das Spiel selbst usw.
+- **Eine `TMD`-Datei (Title Metadata)**: Enthält die Metadaten des Titels
+- **Ein Ticket**: Wird vom Server erstellt und ist für die Installation erforderlich
+
+:::warning Aktueller Status
+Derzeit funktioniert die Ticket-Erstellung einwandfrei. Allerdings können die Installation von Spielen und die Spiele mit dem einzigen verfügbaren Spiel möglicherweise nicht funktionieren, da wir an unserem System arbeiten, das es ermöglicht, CIA-Spiele ins CDN-Format zu konvertieren.
+:::
 
 :::tip Vollständige Dokumentation
 Eine vollständige Dokumentation zur Funktionsweise des Nintendo eShop wird später veröffentlicht.

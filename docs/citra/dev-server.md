@@ -167,12 +167,28 @@ The Nintendo eShop works mainly with 5 services:
 
 Information stored via IAS in the database:
 
-- `consoleid`: DeviceId
-- `devicetoken`: Authentication token
-- `uniquekey`: Unique key
-- `country`, `region`, `language`: Location
-- `balance`: Account balance
-- `is_terminated`: Account status
+- **`consoleid` (DeviceId)**: Used to uniquely identify a 3DS console and to create/link an account on the server. It allows, for example, access to your purchase history and owned titles.
+- **`devicetoken` (token)**: Used for request authentication. It's a randomly generated (21-character) unique token per console, required for ECS/IAS calls.
+- **`uniquekey` (key)**: Not currently used, but it will later be used to link a console to a Ghost eShop account in future updates. This key does not come from Nintendo; we generate it ourselves.
+- **`country`, `region`, `language`**: Used to manage the catalog region, prices, and languages, as well as to personalize the results sent to you.
+- **`balance`**: Usable balance, deducted during purchases and credited with promo codes.
+- **`is_terminated`**: Account status (active/banned).
+
+### Game Format
+
+:::info CDN Format
+eShop games are **not** in CIA, 3DSX, or 3DS formats. The eShop uses the **CDN format**.
+:::
+
+Each game on the CDN consists of:
+
+- **One or more `.app` files**: Contain the game content, manual, the game itself, etc.
+- **A `TMD` file (Title Metadata)**: Contains the title's metadata
+- **A ticket**: Created by the server and required for installation
+
+:::warning Current Status
+Currently, ticket creation works perfectly. However, game installation and games may not work with the only available game, as we are working on our system that allows converting CIA games to the CDN format.
+:::
 
 :::tip Complete Documentation
 Complete documentation on how the Nintendo eShop works will be published later.

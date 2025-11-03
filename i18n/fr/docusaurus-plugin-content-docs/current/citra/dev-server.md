@@ -167,12 +167,28 @@ Le Nintendo eShop fonctionne principalement avec 5 services :
 
 Les informations stockées via IAS dans la base de données :
 
-- `consoleid` : DeviceId
-- `devicetoken` : Token d'authentification
-- `uniquekey` : Clé unique
-- `country`, `region`, `language` : Localisation
-- `balance` : Solde du compte
-- `is_terminated` : Statut du compte
+- **`consoleid` (DeviceId)** : Utilisé pour identifier de manière unique une console 3DS et pour créer/lier un compte sur le serveur. Permet, par exemple, d'accéder à l'historique d'achats et aux titres acquis.
+- **`devicetoken` (token)** : Utilisé pour l'authentification des requêtes. C'est un token unique généré aléatoirement (21 caractères) par console, nécessaire pour les appels ECS/IAS.
+- **`uniquekey` (key)** : Actuellement non utilisé, mais il sera utilisé plus tard pour lier une console à un compte Ghost eShop dans de futures mises à jour. Cette clé ne provient pas de Nintendo ; nous la générons nous-mêmes.
+- **`country`, `region`, `language`** : Utilisés pour gérer la région du catalogue, les prix et les langues, ainsi que pour personnaliser les résultats qui vous sont envoyés.
+- **`balance`** : Solde utilisable, déduit lors des achats et crédité avec des codes promotionnels.
+- **`is_terminated`** : État du compte (actif/interdit).
+
+### Format des jeux
+
+:::info Format CDN
+Les jeux de l'eShop **ne sont pas** aux formats CIA, 3DSX ou 3DS. L'eShop utilise le **format CDN**.
+:::
+
+Chaque jeu est constitué côté CDN de :
+
+- **Un ou plusieurs fichiers `.app`** : Contiennent le contenu du jeu, le manuel, le jeu lui-même, etc.
+- **Un fichier `TMD` (Title Metadata)** : Contient les métadonnées du titre
+- **Un ticket** : Créé par le serveur et nécessaire pour l'installation
+
+:::warning État actuel
+Actuellement, la création de tickets fonctionne parfaitement. Cependant, l'installation des jeux et les jeux peuvent ne pas fonctionner avec le seul jeu disponible, car nous travaillons sur notre système permettant de convertir des jeux CIA au format CDN.
+:::
 
 :::tip Documentation complète
 Une documentation complète sur le fonctionnement du Nintendo eShop sera publiée plus tard.
