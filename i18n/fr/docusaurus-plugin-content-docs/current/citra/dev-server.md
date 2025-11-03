@@ -1,5 +1,10 @@
-### __Configuration Ghost eShop 3DS BETA :__
+---
+sidebar_position: 4
+---
 
+# Serveur de développement
+
+Comment accéder au serveur de développement Ghost eShop 3DS ?
 
 **📙 À lire :**
 
@@ -65,7 +70,7 @@ ___
     Profitez-en ☺️​
 
 :::tip Dépannage
-Si cela ne fonctionne pas et que vous vous retrouvez dans l'eShop de base, vérifiez :
+Si cela ne fonctionne pas et que vous vous retrouvez dans l'eShop de base ou que vous avez une erreur, vérifiez :
 - Avoir la dernière version du firmware 3DS et de Luma
 - Ne pas avoir de proxy dans les paramètres internet de la console
 - Avoir internet sur la console
