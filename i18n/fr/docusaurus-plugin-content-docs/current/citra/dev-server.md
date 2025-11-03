@@ -95,6 +95,7 @@ Nous ne sommes pas responsables des dommages que votre console pourrait subir à
 - **Prentendo** : Peut ne pas être fonctionnel avec ce patch pour le moment
 - **Test de recherche** : Vous pouvez utiliser dans la barre de recherche le terme ``test[n]``, comme par exemple ``test100`` pour avoir 100 résultats (cela sert à tester la stabilité de la fonction de recherche, si vous cliquez sur l'un des jeux cela affichera un code d'erreur)
 - **NNID** : Il n'est pas obligatoire d'avoir un NNID pour utiliser le Shop, le NNID est obligatoire uniquement pour télécharger des jeux gratuits
+- **Carte eShop de test** : Pour les tests, une carte eShop qui ajoute 2 crédits au solde est fonctionnelle sans limite d'utilisation : ``MMMMMMMMMMMMMMMM`` (16 fois la lettre M)
 
 ### Détails techniques du serveur
 

@@ -95,6 +95,7 @@ We are not responsible for any damage your console may suffer as a result of imp
 - **Prentendo**: May not be functional with this patch for now
 - **Search test**: You can use the term ``test[n]`` in the search bar, such as ``test100`` to get 100 results (this is used to test the stability of the search function, if you click on one of the games it will display an error code)
 - **NNID**: It is not mandatory to have an NNID to use the Shop, the NNID is only mandatory to download free games
+- **Test eShop card**: For testing purposes, an eShop card that adds 2 credits to your balance is functional with unlimited use: ``MMMMMMMMMMMMMMMM`` (16 times the letter M)
 
 ### Server Technical Details
 

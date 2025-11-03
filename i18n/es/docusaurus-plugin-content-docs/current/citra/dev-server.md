@@ -95,6 +95,7 @@ No somos responsables por los daños que su consola pueda sufrir como resultado 
 - **Prentendo**: Puede no ser funcional con este parche por el momento
 - **Prueba de búsqueda**: Puede usar el término ``test[n]`` en la barra de búsqueda, como por ejemplo ``test100`` para obtener 100 resultados (esto sirve para probar la estabilidad de la función de búsqueda, si hace clic en uno de los juegos mostrará un código de error)
 - **NNID**: No es obligatorio tener un NNID para usar la Tienda, el NNID es obligatorio solo para descargar juegos gratuitos
+- **Tarjeta eShop de prueba**: Para propósitos de prueba, una tarjeta eShop que agrega 2 créditos a su saldo es funcional con uso ilimitado: ``MMMMMMMMMMMMMMMM`` (16 veces la letra M)
 
 ### Detalles técnicos del servidor
 
