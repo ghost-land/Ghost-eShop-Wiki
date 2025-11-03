@@ -57,14 +57,14 @@ ___
 * **Quatrième étape :**
 
     Une fois dans le menu de configuration de Luma, assurez-vous d'avoir sélectionné "Activer le chargement des FIRMs et modules externes" comme indiqué dans l'image, puis appuyez sur le bouton ``Start`` pour enregistrer la configuration et redémarrer la console.
-    <div><img src="/img/citra/screen/10.png" height="300px"></div>
+    <img src="/img/citra/screen/10.png" height="300" />
 * **Cinquième étape :**
 
     Une fois la console complètement allumée, ouvrez le Nintendo eShop (le premier accès à l'eShop est toujours plus long en raison de l'enregistrement de la console sur le serveur et dans les bases de données).
 * **Sixième étape :**
 
     Une fois tout cela fait, vous devriez pouvoir accéder à l'eShop.
-    <div><img src="/img/citra/screen/14_en.png" height="300px"></div>
+    <img src="/img/citra/screen/14.png" height="300" />
 * **Dernière étape :**
 
     Profitez-en ☺️​
