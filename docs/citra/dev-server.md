@@ -100,7 +100,8 @@ We are not responsible for any damage your console may suffer as a result of imp
 
 - **Tech stack**: The server was developed in JavaScript with Hono, it runs with Bun and PM2
 - **Automatic coins**: 10 coins are automatically added to each registered console
-- **Available games**: Currently, only 1 game is downloadable ()
+- **Available games**: Currently, only 1 game is downloadable: **Mutant Mudds Super Challenge**
+- **Sleep mode download**: Download in console sleep mode works perfectly
 
 ---
 

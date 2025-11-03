@@ -100,7 +100,8 @@ Wir sind nicht verantwortlich für Schäden, die Ihre Konsole aufgrund falscher 
 
 - **Tech-Stack**: Der Server wurde in JavaScript mit Hono entwickelt, er läuft mit Bun und PM2
 - **Automatische Münzen**: 10 Münzen werden automatisch zu jeder registrierten Konsole hinzugefügt
-- **Verfügbare Spiele**: Derzeit ist nur 1 Spiel herunterladbar ()
+- **Verfügbare Spiele**: Derzeit ist nur 1 Spiel herunterladbar: **Mutant Mudds Super Challenge**
+- **Download im Ruhemodus**: Der Download im Ruhemodus der Konsole funktioniert einwandfrei
 
 ---
 

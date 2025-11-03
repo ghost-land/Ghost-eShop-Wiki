@@ -100,7 +100,8 @@ Nous ne sommes pas responsables des dommages que votre console pourrait subir à
 
 - **Stack technique** : Le serveur a été développé en JavaScript avec Hono, il tourne avec Bun et PM2
 - **Pièces automatiques** : 10 pièces sont automatiquement ajoutées à chaque console enregistrée
-- **Jeux disponibles** : Actuellement, seul 1 jeu est téléchargeable ()
+- **Jeux disponibles** : Actuellement, seul 1 jeu est téléchargeable : **Mutant Mudds Super Challenge**
+- **Téléchargement en mode veille** : Le téléchargement en mode veille de la console fonctionne parfaitement
 
 ---
 

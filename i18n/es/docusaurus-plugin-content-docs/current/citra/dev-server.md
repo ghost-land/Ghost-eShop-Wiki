@@ -100,7 +100,8 @@ No somos responsables por los daños que su consola pueda sufrir como resultado 
 
 - **Stack técnico**: El servidor fue desarrollado en JavaScript con Hono, funciona con Bun y PM2
 - **Monedas automáticas**: 10 monedas se agregan automáticamente a cada consola registrada
-- **Juegos disponibles**: Actualmente, solo 1 juego es descargable ()
+- **Juegos disponibles**: Actualmente, solo 1 juego es descargable: **Mutant Mudds Super Challenge**
+- **Descarga en modo suspensión**: La descarga en modo suspensión de la consola funciona perfectamente
 
 ---
 
