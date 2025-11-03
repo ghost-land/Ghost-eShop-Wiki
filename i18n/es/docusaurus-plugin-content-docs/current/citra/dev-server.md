@@ -104,6 +104,29 @@ No somos responsables por los daños que su consola pueda sufrir como resultado 
 - **Juegos disponibles**: Actualmente, solo 1 juego es descargable: **Mutant Mudds Super Challenge**
 - **Descarga en modo suspensión**: La descarga en modo suspensión de la consola funciona perfectamente
 
+### Desaparición de juegos en la primera conexión
+
+:::warning Aviso importante
+En la primera conexión al servidor de desarrollo, los juegos instalados en su consola pueden desaparecer del menú principal.
+:::
+
+**Este comportamiento es normal.** Los juegos no han desaparecido realmente.
+
+Para hacer reaparecer sus juegos, puede usar [faketik](https://github.com/ihaveamac/faketik):
+
+1. Descargue `faketik.3dsx` desde [/citra/3dsx/faketik.3dsx](/citra/3dsx/faketik.3dsx)
+2. Coloque el archivo en `sdmc:/3ds/faketik.3dsx` en su tarjeta SD
+3. Lance faketik desde el Homebrew Launcher
+4. Siga las instrucciones en pantalla para regenerar los tickets
+
+Código fuente: [GitHub - ihaveamac/faketik](https://github.com/ihaveamac/faketik)
+
+:::caution Reemplazo de tickets
+**Importante**: faketik reemplazará sus tickets legítimos del eShop con tickets "falsos". Sus juegos seguirán siendo completamente funcionales, pero los tickets ya no serán legítimos.
+
+Para recuperar sus tickets legítimos originales, simplemente vuelva a conectarse al servidor eShop oficial de Nintendo (eliminando los parches del servidor de desarrollo).
+:::
+
 ---
 
 ## 🔧 Detalles técnicos (Información adicional)

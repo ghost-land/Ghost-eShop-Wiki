@@ -104,6 +104,29 @@ Wir sind nicht verantwortlich für Schäden, die Ihre Konsole aufgrund falscher 
 - **Verfügbare Spiele**: Derzeit ist nur 1 Spiel herunterladbar: **Mutant Mudds Super Challenge**
 - **Download im Ruhemodus**: Der Download im Ruhemodus der Konsole funktioniert einwandfrei
 
+### Verschwinden von Spielen bei der ersten Verbindung
+
+:::warning Wichtiger Hinweis
+Bei der ersten Verbindung mit dem Entwicklungsserver können die auf Ihrer Konsole installierten Spiele aus dem Startmenü verschwinden.
+:::
+
+**Dieses Verhalten ist normal.** Die Spiele sind nicht wirklich verschwunden.
+
+Um Ihre Spiele wieder erscheinen zu lassen, können Sie [faketik](https://github.com/ihaveamac/faketik) verwenden:
+
+1. Laden Sie `faketik.3dsx` von [/citra/3dsx/faketik.3dsx](/citra/3dsx/faketik.3dsx) herunter
+2. Platzieren Sie die Datei in `sdmc:/3ds/faketik.3dsx` auf Ihrer SD-Karte
+3. Starten Sie faketik über den Homebrew Launcher
+4. Befolgen Sie die Anweisungen auf dem Bildschirm, um die Tickets neu zu generieren
+
+Quellcode: [GitHub - ihaveamac/faketik](https://github.com/ihaveamac/faketik)
+
+:::caution Ticket-Ersetzung
+**Wichtig**: faketik ersetzt Ihre legitimen eShop-Tickets durch "gefälschte" Tickets. Ihre Spiele bleiben vollständig funktionsfähig, aber die Tickets sind nicht mehr legitim.
+
+Um Ihre ursprünglichen legitimen Tickets wiederherzustellen, verbinden Sie sich einfach wieder mit dem offiziellen Nintendo eShop-Server (indem Sie die Entwicklungsserver-Patches entfernen).
+:::
+
 ---
 
 ## 🔧 Technische Details (Zusätzliche Informationen)

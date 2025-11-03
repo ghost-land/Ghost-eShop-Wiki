@@ -104,6 +104,29 @@ We are not responsible for any damage your console may suffer as a result of imp
 - **Available games**: Currently, only 1 game is downloadable: **Mutant Mudds Super Challenge**
 - **Sleep mode download**: Download in console sleep mode works perfectly
 
+### Games Disappearing on First Connection
+
+:::warning Important Notice
+On the first connection to the development server, games installed on your console may disappear from the home menu.
+:::
+
+**This is normal behavior.** The games have not actually disappeared.
+
+To make your games reappear, you can use [faketik](https://github.com/ihaveamac/faketik):
+
+1. Download `faketik.3dsx` from [/citra/3dsx/faketik.3dsx](/citra/3dsx/faketik.3dsx)
+2. Place the file in `sdmc:/3ds/faketik.3dsx` on your SD card
+3. Launch faketik from the Homebrew Launcher
+4. Follow the on-screen instructions to regenerate the tickets
+
+Source code: [GitHub - ihaveamac/faketik](https://github.com/ihaveamac/faketik)
+
+:::caution Ticket Replacement
+**Important**: faketik will replace your legitimate eShop tickets with "fake" tickets. Your games will remain fully functional, but the tickets will no longer be legitimate.
+
+To restore your original legitimate tickets, simply reconnect to the official Nintendo eShop server (by removing the development server patches).
+:::
+
 ---
 
 ## 🔧 Technical Details (Additional Information)
