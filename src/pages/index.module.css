@@ -21,3 +21,28 @@
   align-items: center;
   justify-content: center;
 }
+
+.buttons :global(.button--secondary) {
+  background-color: var(--ifm-color-secondary);
+  color: var(--ifm-color-primary);
+  border: 2px solid var(--ifm-color-primary);
+  transition: all 0.3s ease;
+}
+
+.buttons :global(.button--secondary):hover {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-secondary);
+  border-color: var(--ifm-color-primary);
+}
+
+[data-theme='dark'] .buttons :global(.button--secondary) {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+[data-theme='dark'] .buttons :global(.button--secondary):hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.5);
+}
