@@ -8,8 +8,8 @@ const FeatureList = [
     image: require('@site/static/img/easy_to_use.png').default,
     description: (
       <>
-        Lorem Ipsum Lorem Ipsum
-        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.
+        Get started with Ghost eShop in minutes. Follow our simple step-by-step guides
+        to set up the alternative eShop on your Nintendo console.
       </>
     ),
   },
@@ -18,8 +18,8 @@ const FeatureList = [
     image: require('@site/static/img/focus_on.png').default,
     description: (
       <>
-        Lorem Ipsum Lorem Ipsum
-        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.
+        We handle the technical side, and you focus on enjoying your games. Simple setup,
+        reliable service, and thousands of titles at your fingertips.
       </>
     ),
   },
@@ -28,8 +28,8 @@ const FeatureList = [
     image: require('@site/static/img/powered_by_gl.png').default,
     description: (
       <>
-        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum
-        Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum.
+        Designed by Ghost Land, hosted on Ghost Land infrastructure, and maintained
+        by the Ghost eShop team.
       </>
     ),
   },
