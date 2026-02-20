@@ -170,7 +170,7 @@ Un problème avec un service Ghost eShop NX ? Trouvez des solutions ici !
 **Important** : Vous devez d'abord mettre à jour Atmosphere, puis remplacer le package3. Remplacer le package3 sans mettre à jour Atmosphere d'abord ne servira à rien.  
 1. **Mettre à jour Atmosphere** : Assurez-vous d'avoir **Atmosphere 1.10.0 ou supérieur** installé pour la compatibilité avec le firmware v21+. Mettez à jour votre Custom Firmware (CFW) vers la dernière version qui supporte votre firmware.  
 2. **Remplacer le package3** : Après avoir mis à jour Atmosphere, remplacez le fichier package3.  
-   - Téléchargez le fichier package3 : **[package3](/bin/package3)**  
+   - Téléchargez le fichier package3 : **[package3](pathname:///bin/package3)**  
    - Placez le fichier `package3` dans le dossier **`sdmc:/atmosphere/`** (remplacez celui existant s'il est présent).  
 3. Redémarrez votre Switch.  
 - Vérifiez toujours la compatibilité du CFW avant de mettre à jour le firmware de votre Switch.  

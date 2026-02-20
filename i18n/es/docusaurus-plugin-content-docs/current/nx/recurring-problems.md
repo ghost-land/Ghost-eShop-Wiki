@@ -126,7 +126,7 @@ _**Ejemplo**_: **Mario** | *Zelda* | *Pokemon*
 **Importante**: Primero debes actualizar Atmosphere, luego reemplazar package3. Reemplazar package3 sin actualizar Atmosphere primero no funcionará.  
 1. **Actualizar Atmosphere**: Asegúrate de tener **Atmosphere 1.10.0 o superior** instalado para compatibilidad con el firmware v21+. Actualiza tu Custom Firmware (CFW) a la última versión que soporte tu firmware.  
 2. **Reemplazar package3**: Después de actualizar Atmosphere, reemplaza el archivo package3.  
-   - Descarga el archivo package3: **[package3](/bin/package3)**  
+   - Descarga el archivo package3: **[package3](pathname:///bin/package3)**  
    - Coloca el archivo `package3` en la carpeta **`sdmc:/atmosphere/`** (reemplaza el existente si está presente).  
 3. Reinicia tu Switch.  
 - Siempre verifica la compatibilidad del CFW antes de actualizar el firmware de tu Switch.  

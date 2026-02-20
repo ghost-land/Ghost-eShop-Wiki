@@ -23,7 +23,7 @@ const config = {
   organizationName: 'ghost-land', // Usually your GitHub org/user name.
   projectName: 'ghost-eshop-wiki', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   staticDirectories: ['static'],
 
