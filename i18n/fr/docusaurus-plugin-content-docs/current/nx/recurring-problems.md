@@ -166,7 +166,11 @@ Un problème avec un service Ghost eShop NX ? Trouvez des solutions ici !
 
 ### ❌ Erreur : Tinfoil ne démarre plus sur le firmware v21+
 ℹ️ **Raison :** À partir du firmware v21, certaines applications homebrew comme Tinfoil peuvent ne plus démarrer en raison de changements dans le système qui nécessitent de mettre à jour le fichier package3.  
-✅ **Solution :**  
+
+> ⚠️ **Avertissement important** : Cette solution n'est **pas recommandée** et n'est listée ici que pour les utilisateurs qui ont absolument besoin d'accéder à Tinfoil sur le firmware v21+. Manipuler l'ABI dans package3 n'est **pas conseillé** et peut causer des instabilités ou d'autres problèmes.  
+> **La meilleure approche est de rester sur le firmware v20** et d'attendre soit que Tinfoil soit mis à jour et recompilé, soit que d'autres solutions homebrew deviennent disponibles prochainement.
+
+✅ **Solution** (À utiliser à vos risques et périls) :  
 **Important** : Vous devez d'abord mettre à jour Atmosphere, puis remplacer le package3. Remplacer le package3 sans mettre à jour Atmosphere d'abord ne servira à rien.  
 1. **Mettre à jour Atmosphere** : Assurez-vous d'avoir **Atmosphere 1.10.0 ou supérieur** installé pour la compatibilité avec le firmware v21+. Mettez à jour votre Custom Firmware (CFW) vers la dernière version qui supporte votre firmware.  
 2. **Remplacer le package3** : Après avoir mis à jour Atmosphere, remplacez le fichier package3.  

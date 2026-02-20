@@ -122,7 +122,11 @@ _**Ejemplo**_: **Mario** | *Zelda* | *Pokemon*
 
 ### 🚫 **Error**: *Tinfoil no inicia en Firmware v21+*
 ℹ️ **Razón**: A partir del firmware v21, algunas aplicaciones homebrew como Tinfoil pueden no iniciar debido a cambios en el sistema que requieren actualizar el archivo package3.  
-✅ **Solución**:  
+
+> ⚠️ **Advertencia importante**: Esta solución **no es recomendada** y solo está listada aquí para usuarios que absolutamente necesitan acceder a Tinfoil en firmware v21+. Manipular el ABI en package3 **no es aconsejable** y puede causar inestabilidad u otros problemas.  
+> **El mejor enfoque es permanecer en firmware v20** y esperar a que Tinfoil sea actualizado y recompilado, o a que otras soluciones homebrew estén disponibles pronto.
+
+✅ **Solución** (Úsalo bajo tu propio riesgo):  
 **Importante**: Primero debes actualizar Atmosphere, luego reemplazar package3. Reemplazar package3 sin actualizar Atmosphere primero no funcionará.  
 1. **Actualizar Atmosphere**: Asegúrate de tener **Atmosphere 1.10.0 o superior** instalado para compatibilidad con el firmware v21+. Actualiza tu Custom Firmware (CFW) a la última versión que soporte tu firmware.  
 2. **Reemplazar package3**: Después de actualizar Atmosphere, reemplaza el archivo package3.  
