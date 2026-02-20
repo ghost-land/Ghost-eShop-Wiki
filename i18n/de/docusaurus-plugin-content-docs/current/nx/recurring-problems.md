@@ -117,3 +117,17 @@ _**Beispiel**_: *Mario* | *Zelda* | *Pokemon*
 ### 🚫 Fehler: Fehlerhafte Daten
 ℹ️ **Grund**: Deine Nintendo Switch beinhaltet beschädigte Dateien.
 ✅ **Lösung**: Bitte starte **DBI** und gehe auf **TOOLS -> Cleanup Orphaned Files**
+
+---
+
+### 🚫 Fehler: Tinfoil startet nicht auf Firmware v21+
+ℹ️ **Grund**: Ab Firmware v21 können einige Homebrew-Anwendungen wie Tinfoil aufgrund von Systemänderungen, die eine Aktualisierung der package3 Datei erfordern, nicht mehr starten.  
+✅ **Lösung**:  
+**Wichtig**: Du musst zuerst Atmosphere aktualisieren, dann package3 ersetzen. package3 zu ersetzen ohne Atmosphere zuerst zu aktualisieren wird nicht funktionieren.  
+1. **Atmosphere aktualisieren**: Stelle sicher, dass du **Atmosphere 1.10.0 oder höher** für Firmware v21+ Kompatibilität installiert hast. Aktualisiere dein Custom Firmware (CFW) auf die neueste Version, die dein Firmware unterstützt.  
+2. **package3 ersetzen**: Nach dem Aktualisieren von Atmosphere, ersetze die package3 Datei.  
+   - Lade die package3 Datei herunter: **[package3](/bin/package3)**  
+   - Platziere die `package3` Datei im Ordner **`sdmc:/atmosphere/`** (ersetze die vorhandene, falls vorhanden).  
+3. Starte deine Switch neu.  
+- Überprüfe immer die CFW-Kompatibilität, bevor du das Firmware deiner Switch aktualisierst.  
+- Wenn du anhaltende Probleme hast, stelle sicher, dass du die richtige package3 Datei für deine Firmware-Version hast.

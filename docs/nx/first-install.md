@@ -11,9 +11,9 @@ Guide to install Ghost eShop on Switch
 
 > **Important:** Ghost eShop PUBLIC requires at least version **18.0 of Tinfoil**. Older versions cannot access the shop and will display a message prompting you to update Tinfoil.
 
----  
+---
 
-This guide explains how to install and configure **Tinfoil** to access Ghost eShop on your Nintendo Switch.  
+This guide explains how to install and configure **Tinfoil** to access Ghost eShop on your Nintendo Switch.
 
 
 ## 📥 **Step 1**: *Download and Install Tinfoil*  

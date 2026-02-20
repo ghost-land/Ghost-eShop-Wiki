@@ -118,3 +118,17 @@ _**Example**_: **Mario** | *Zelda* | *Pokemon*
 ### 🚫 **Error**: *Corrupted Data*
 ℹ️ **Reason**: Your SD have damaged Sectors or Tinfoil is corrupted  
 ✅ **Solution**: Completely delete Tinfoil and reinstall TInfoil (**App on Mainscreen and Folder in SD:/switch/**) | Check SD Card in Hekate with "**Console Info**" -> "**microSD**" -> at the bottom in the right Corner
+
+---
+
+### 🚫 **Error**: *Tinfoil won't start on Firmware v21+*
+ℹ️ **Reason**: Starting from firmware v21, some homebrew applications like Tinfoil may not start due to changes in the system that require to update package3 file.  
+✅ **Solution**:  
+**Important**: You must first update Atmosphere, then replace package3. Replacing package3 without updating Atmosphere first will not work.  
+1. **Update Atmosphere**: Ensure you have **Atmosphere 1.10.0 or higher** installed for firmware v21+ compatibility. Update your Custom Firmware (CFW) to the latest version that supports your firmware.  
+2. **Replace package3**: After updating Atmosphere, replace the package3 file.  
+   - Download the package3 file: **[package3](/bin/package3)**  
+   - Place the `package3` file in the **`sdmc:/atmosphere/`** folder (replace the existing one if present).  
+3. Restart your Switch.  
+- Always check CFW compatibility before updating your Switch firmware.  
+- If you encounter persistent issues, ensure you have the correct package3 file for your firmware version.

@@ -11,9 +11,9 @@ Einrichten des Shops
 
 > **WICHTIG!:** Ghost eShop **PUBLIC|FREE** benötigt mindestens Version **18.0 von Tinfoil**. Ältere Versionen können nicht auf unseren Shop verbinden und wird eine Nachricht anzeigen, dass du Tinfoil aktualisieren sollst. Und deine Konsole muss bereits gehacked sein!
 
----  
+---
 
-Dieser Guide erklärt dir wie du **Tinfoil** installierst und einstellst, um Zugang zum Ghost eShop auf deiner Nintendo Switch Konsole zu erhalten.  
+Dieser Guide erklärt dir wie du **Tinfoil** installierst und einstellst, um Zugang zum Ghost eShop auf deiner Nintendo Switch Konsole zu erhalten.
 
 ---
 
